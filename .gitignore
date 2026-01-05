@@ -1,0 +1,8 @@
+# Ignoring temporary compile files from LaTeX
+*.aux
+*.b*
+*.f*
+*.out
+*.run.xml
+*.toc
+*.log

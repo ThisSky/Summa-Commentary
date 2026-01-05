@@ -5,7 +5,6 @@
 
 \usepackage[T1]{fontenc}
 \usepackage{subcaption,graphicx}
-\usepackage{natbib}
 \usepackage{mathtools}  % loads amsmath
 \usepackage{amssymb}    % loads amsfonts
 \usepackage{amsthm}
@@ -13,7 +12,6 @@
 \usepackage[autostyle]{csquotes}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
-\usepackage[backend=bibtex]{biblatex}
 \usepackage{blindtext}
 \usepackage{hyperref}
 \usepackage{ulem}
@@ -30,19 +28,26 @@ sorting=ynt
 
 %% Use these commands to set biographic information for the title page:
 \newcommand{\thesistitle}{Simplified Commentary on the Summa}
-\newcommand{\thesisauthor}{Aron Aziz, Joseph Samo, Will Whitlow }
+\newcommand{\thesisauthor}{Aron Aziz, Joseph Samo, Will Whitlow}
+\dedication{%
+We would like to dedicate this work to the following people:
 
-%% Use these commands to set a dedication and epigraph text
-\dedication{We would like to Dedicate this work to the following peoples:\\
-Aron:\\
-\\
-Joseph:\\
-To those who have taught me what it is to to loved.\\
-Will:\\
-In gratitude for the formation that I have been so blessed to received. "You received without pay, give without pay." (Matt 10:8)\\
+Aron:
+
+Aron response file not found!
+
+Joseph:
+
+To those who have taught me what it is to be loved.
+
+Will:
+
+In gratitude for the formation that I have been so blessed to receive.
+``You received without pay, give without pay.'' (Matt.~10:8)
 }
-\epigraph{"In the evening of life, we will be judged on love alone."\\
-St. John of the Cross}
+\epigraph{``In the evening of life, we will be judged on love alone.''
+
+St.~John of the Cross}
 
 \usepackage{doi}
 \usepackage{xurl}
@@ -83,14 +88,18 @@ St. John of the Cross}
 \mainmatter
 % Main body of text follows
 \chapter{Introduction}
+
 The objective of this document is to provide a guide for a newcomer to philosophy through Saint Thomas Aquinas' Magnum Opus, \textit{Summa Theologiae}. This document was written by novices in the field, and therefore, facilitates to their growth as well as the reader's. Therefore, the commentaries are not rigorous or dense, but rather, should provide a more digestible reading experience for the lay man. \footnote{I was clearly hungry when writing this.}
 \section{The Philosophical Preliminary Foundation}
+
 The modern foundations of knowledge are based on empirical evidence. While there is nothing wrong with this as a framework for knowledge there are some notable drawbacks when one attempts to study a work like the \textit{Summa Theologiae}. Whereas the contemporary educational system places emphasis on grammar, mathematics, and science. The medieval tradition of education was more naturally steeped in the liberal arts.\footnote{Liberal arts reveal an important notion within the name. They are called such because they are the free arts. These are the types of practices that one is able to enter into when every moment does not have to be dedicated to survival and you have free time.} Education for the medievals began with \textit{trivium} of grammar, logic, and rhetoric as the foundational courses. Students would later progress to the \textit{quadrivium} of arithmetic, geometry, music, and astronomy. Eventually allowing students to progress to philosophy and then theology. Now, why does this matter? This is important because it explains the prerequisites that St. Thomas Aquinas is presuming of his students while writing the \textit{Summa Theologiae}. The \textit{Summa Theologiae} is the textbook for students studying theology. Since we are not formed in the same educational system, it is often difficult for casual readers to pick up the \textit{Summa Theologiae} as a cold starting point. Let's consider some of the notable aspects of this educational system, in order to avoid the mistake of trying to study nuclear physics without having any concept of atoms.\footnote{Disclaimer: as an author I am squarely a product of the contemporary STEM focused educational system more than I am a product of the Traditional Liberal Arts. Some may find this appealing, others will likely be annoyed by various grammatical errors in my writings. I apologize for this and hope that the errors will decrease over the duration of the project. It took typecasting writing into computer programming for me to truly have any interest in this art, which says a lot about my approach.
 }
 \paragraph{Importance of Logic}
+
 The \textit{trivium}, foundation of all sciences,\footnote{This will be the more encompassing use of the term science as Aquinas would have used it. Which means science refers to topics of study rather than empirical investigations. In this view, theology is the highest science because it grasps the highest most perfect truth and object of study (i.e. God). As God is the Creator, God is also beyond His creation, thus empirical knowledge of God is not logically possible. This last part is putting the cart in front of the horse as we will cover this very shortly in the \textit{Summa}.
 } is the language through which one is able to understand how Aquinas is forming ideas. While it is certainly my hope that the audience for this project through their technical background are naturally predisposed to engage with the logic of the work, it is still important to outline some of the basics of Aristotelian logic in order to ensure a common framework. Largely thanks to the advancements in mathematics and computing, the main understanding and engagement with logic is through, what it is called in philosophical language, symbolic logic. The idea of this logic is that you have variables through which you are able to perform discrete operations on in order to express arguments in a simplistic mathematical manner. The challenge with this is that mathematical operations can lead to contradictions in comparison to how language operates. Thus symbolic logic is incredibly powerful in computing where every operation is reducible to pure binary. While it would not be facetious to engage with the \textit{Summa} from this framework, it would also not be in the spirit of how the author is forming arguments. As such, continuing to review the principles of Aristotelian logic will be important for this project.
 \paragraph{The Ten Categories}
+
 The foundation of Aristotelian logic is the ten categories. You have likely heard of these in different settings, but they are important as many of the misunderstandings with the Summa derive from faulty perceptions of the ten categories. To begin the ten categories are subdivided into two different sets. The first being that of substance. Substance is actually both one of the categories and an entire subset containing only itself. The second subset is accidents. The accident subset is composed of the remaining nine categories. Admittedly even this description is a simplification for more in-depth discussions consider the following article: \hyperlink{https://plato.stanford.edu/entries/aristotle-categories}{https://plato.stanford.edu/entries/aristotle-categories} 
 \newcounter{categories}
 \setcounter{categories}{0}
@@ -121,6 +130,7 @@ The foundation of Aristotelian logic is the ten categories. You have likely hear
     \end{enumerate}
 \end{itemize}
 \paragraph{Relationship of Matter and Form}
+
 One final note to conclude this brief summary of Aristotelian philosophy. One of the early debates of Greek philosophy, of which the influences thereof are present in mass throughout the \textit{Summa}, is how to explain the nature of individual substances. In short, why are there humans, dogs, and cats, amongst so many more? Various elemental answers were proposed but the two most prevailing, that continue to influence contemporary philosophy, are those of Plato and Aristotle. Plato’s solution to this problem was to propose the realm of the Forms. Through this proposal the highest end of life was identified to be contemplation of the Forms. Every physical entity is said to be an image or instantiation of the form in matter. Matter is the principle of existence by which an individual is differentiated. Accordingly, matter is considered to be akin to a dirty and faulty medium as we come to identity defects from the forms. Defects from a Form is called a privation, as in a three legged dog would be described as having a privation because of the missing leg. Important aspects of this philosophy are present in key passages of the \textit{Summa}, however, the divide between interpreting Aquinas along Platonic or Aristotelian lines is one of the most active sources of debate amongst contemporary Thomists.\footnote{For those interested, I have an example that I like to use comparing Plato’s theory of the Forms to Java, the object based programming language. As an analogy it works surprisingly well.} Aristotle, the student of Plato, proposes a different solution of \textit{hylomorphism}.\footnote{The combination of the Greek terms for matter and form.} The key distinction is that the Form does not reside solely in the abstract realm, but instead is present in the primary substance. Thus an individual substance is composed of matter and form. The form being the principle that gives definition to the matter. The question of what is matter in these systems as a principle of pure potency is an interesting question, but one that is beyond the scope of this introduction. The topic will likely be explored over the course of the project, feel free to ask questions about it though if interested.
 
 
@@ -135,17 +145,26 @@ One final note to conclude this brief summary of Aristotelian philosophy. One of
 \subsection*{Part III Tertia Pars} Christ, the sacraments, and humanity's return to God (incomplete)
 
 \clearpage
-\section{Article Structure}
-An Article, or a collection of questions has the following structure.
+\section{Question Structure}
+
+A Question is a collection of questions has the following structure.
 \subsection*{Question (Quaestio)}
+
 A specific theological problem is posed.
+\subsection*{Article}
+
+A subset of the question that provides the user with higher specificity.
 \subsection*{Objections (Objectiones)}
+
 Arguments against Aquinas's eventual position. Until I find a better "author" for these I shall refer to them as anti-Aquinas/anti-Thomas. A common argumentative fallacy is that of straw manning your opponent. In this fallacy, the debater constructs a weak poor representation of their opponents position and then refutes this instead of their opponents true position. What Aquinas does with Objections is the opposite, in that he is steel manning his opponent's position. By describing his opponent's position better than most of them may be able to do he is able to truly and accurately refute the position.
 \subsection*{On the Contrary (Sed Contra)}
+
 A brief, authoritative statement (often from Scripture or a Church Father) supporting the thesis.
 \subsection*{I Respond That (Respondeo)}
+
 Aquinas's detailed explanation and solution.
 \subsection*{Replies to Objections (Ad Objectiones)}
+
 Specific refutations of the initial objections
 \clearpage
 
@@ -156,16 +175,21 @@ Specific refutations of the initial objections
 \subsection{Question 1. The Nature and Extent of Sacred Doctrine }
 \paragraph{Article 1. Whether, besides philosophy, any further doctrine is required?}
 \paragraph{Objection 1.}
+
 Here anti-Aquinas proposes that Philosophy is the highest end and therefore further knowledge, E.G theology/science, has no end or benefit.
 \paragraph{Objection 2.}
+
 The only things worth teaching is that which is  true. All that can be proven true can be deduced through philosophy. Therefore, we can know God through philosophy and thus Theology is a subset of philosophy. 
 \paragraph{On the contrary}
 Objection 2 thinks we can know God through human reason, but Aquinas states that the Revelation of God is \sout{outside of} derived in and of itself(\textit{per se}) by human reason and therefore not a part of philosophy.
 \paragraph{I answer that}
+
 The revelation of God through time/the prophets/the bible/the Church was necessary for humans to grasp the true nature of God as this nature is beyond human reason. Human reason could eventually conclude some of the aspects of God, but, even this, would be fraught with error and only a select few would attain that height. Thus, God's revelation was necessary for man to reasonably realize the truth of the Nature of God, thus leading man to a path of salvation.
 \paragraph{Reply to Objection 1.}
+
 God is the source of man's reason. Therefore, God's absolute nature will always be above man's reason. Belief that the former statement is false is due to one pride.
 \paragraph{Reply to Objection 2.}
+
 There are many paths to God, philosophy is not the only route. Therefore, Theology is sacred doctrine and not philosophy.\\
 This begins one of the unique aspects of the \textit{Summa} for a modern audience. Sciences are distinguished by their object of study and derive from first principles. In this light theology is defined as the study of God, and the first principles thereof are what Aquinas is beginning to define here.
 
@@ -226,7 +250,7 @@ The reason we require faith is because we have a dulled intellect. Had we a perf
 Similarly to Thomas' reply to Objection 1. God is the source of Sacred Doctrine. Other sciences simply aid our weak intellect to better comprehend God. Had we perfect intellects than Sacred Doctrine would be completely stand alone as it is the study of the perfect God
 
 \paragraph{Article 6. Whether this doctrine is the same as wisdom?}
-This one tripped me up for a minute, so you're gonna get a pre-amble. Basically, Aquinas is trying to show that Sacred Doctrine has wisdom. That is to say It considers the highest cause and judges all things in light of that cause. Thus, he must prove that sacred doctrine considers the highest cause, that is God, and that it, God, has power of judgment over all other sciences. Basically, he has to defend God's omnipotence over creation. In addition, there seems to be a distinction that is being drawn as regards the nature of wisdom. Much of this article seems to rely on the idea that wisdom is a gift of grace from God. Rather it appears that there are two different ways of acquiring wisdom. One being human wisdom derived from study, and the other being wisdom, pure and simple, received through the grace of God.
+
 \paragraph{Objection 1.}
 Anti-Thomas claims that Sacred Doctrine can not be an ultimate knowledge or authoritative set as it uses principals given by another field. E.G., Divine revelation. Further, Sacred Doctrine relies on revelation and not natural reason.
 \paragraph{Objection 2.}
@@ -245,6 +269,11 @@ This science is above human reason and comes directly from God. Thus, it is not 
 There are two ways in which a man can come to just judgment wisdom imparted by the holy spirit, and through knowledge of Sacred Doctrine.
 A saint may know what is right through his/her inclinations. A person who has studied Sacred Doctrine may know what is right or wrong through study. Both originate from God.
 \paragraph{Article 7. Whether God is the object of this science?}
+\begin{center}
+    \textbf{RECOGNIZING THE SCOPE AND TIME CONSTRAINTS THE PART BY PART COMMENTARY WILL CONCLUDE HERE. INSTEAD THERE WILL BE OUTLINES OF SOME OF THE IMPORTANT ELEMENTS FROM EACH ARTICLE. ALL MEMBERS ARE ENCOURAGED TO ASK QUESTIONS ABOUT ANY DETAILS EXCLUDED AND RESPONSES WILL BE ADDED AFTERWARDS.}\\
+\end{center}
+\normalsize
+In some aspects this article can be considered a precursor to Aquinas's 5 ways. The reason behind this is because Aquinas is beginning to wrestle with the precise reality of what makes Theology such a difficult subject to grasp. We are wrestling to comprehend that which is not possible to fully comprehend. Accordingly, there will always be aspects that are simply unknowable. Ad 1 (Reply to objection 1) is a good example of this. Aquinas is beginning to describe how the science of God must be an \textit{a priori} study. That is we go from effects to the cause. The basis of modern science is \textit{a posteriori} investigations. That is to go from causes to effects. When we can go from a cause to an effect than we know this relationship directly and absolutley. Going from effect to the cause leaves gaps that we are often unable to fill in. This is an important aspect that will become more apparent in the famous 5 ways argument found in I.2.3 (To decode that, that is Prima Pars [this book], Question 2, article 3). God is absolutely what theology is ordered towards, but it is a science that can never be conclusively solved in the same manner that geometry permits absolute proofs.
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{On the contrary}
@@ -253,6 +282,7 @@ A saint may know what is right through his/her inclinations. A person who has st
 \paragraph{Reply to Objection 2.}
 
 \paragraph{Article 8. Whether sacred doctrine is a matter of argument?}
+Aquinas is addressing the appeal to Faith fallacy. As if to answer the question why do we even bother studying theology if all it is, is a matter of doctrine? Why can't someone merely tell me what I need to believe? Aquinas grants that where there is not even the remotest provision to accept the Articles of Faith there is no argument that can be had. Since it is not possible to derive many of these principles through reason alone, it is difficult for Sacred Doctrine to be a matter of argument without them. Yet, it holds that once the Articles of Faith are granted, it becomes possible to engage with the Faith as a manner of proving certain truths through argumentation. In many ways a follow-up to St. Anselm's famous quote \textit{fides quarens intellectum} (Faith seeking understanding).
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{On the contrary}
@@ -261,6 +291,7 @@ A saint may know what is right through his/her inclinations. A person who has st
 \paragraph{Reply to Objection 2.}
 
 \paragraph{Article 9. Whether Holy Scripture should use metaphors?}
+Again, we are trying to grasp that which is beyond logical comprehension. Therefore, metaphors are appropriate insofar as the reveal the first inclinations of the truth present therein. Metaphors be necessity fall short of describing the true reality of what they are signifying. Thus, the use of a metaphor is often an understatement of God's true nature rather than hyperbole.
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{Objection 3.}
@@ -271,10 +302,26 @@ A saint may know what is right through his/her inclinations. A person who has st
 \paragraph{Reply to Objection 3.}
 
 \paragraph{Article 10. Whether in Holy Scripture a word may have several senses?}
+\textbf{\textit{Philosophical Note For Deeper Understanding}}
+Actually the very nature of this question brings about an important philosophical distinction. There are three senses in which we can understand terms. Those being: univocal, equivocal, and analogical/analogous.
+\begin{enumerate}
+        \item Univocal terms are those which can only be understood in a singular meaning. They admit not multiplicity of understanding. For example: `triangle' a term that by its very nature always and without doubt refers to a three-sided polygon.
+        \item Equivocal terms (or equivocation) are when the same term is being used for vastly different meanings. For example: the term `bat' could just as easily refer to as baseball bat as it could to a flying mammal.
+        \item Analogical/Analogous terms are those which are used and refer to different realities despite being the same term. These realities are often related though. As describing something as `fire' is often utilized to mean that it is hot much like a campfire. These terms are very common in English and increasingly more so with Internet culture.
+\end{enumerate}
+The on the contrary provides a good example of how Holy Scripture by its nature admits of several senses. Then the main area of focus on this article is towards what is commonly understood as the four senses of reading Sacred Scripture. In this manner, Aquinas is proving how Sacred Scriputre can be used in Theology to make the arguments required. The four senses of Sacred Scripture, as most often representated today, are: literal, allegorical, moral, and eschatological.
+\begin{enumerate}
+        \item Literal - is the historical sense of what actually occurred. 
+        \item Allegorical - speaks to the meaning of how Sacred Scripture continues to reveal truths in every age.
+        \item Moral - speaks to how one ought to act.
+        \item Eschatological - speaks to our Final End in the Beatific Vision
+\end{enumerate}
+With all of this outlined Aquinas is now prepared to proceed to the notion of God's existence. Having argued for the ability to leverage Divine Revelation as his primary means of argumentation.
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{Objection 3.}
 \paragraph{On the contrary}
+Defining the terms that are referenced by Aquinas here and following may prove useful.
 \paragraph{I answer that}
 \paragraph{Reply to Objection 1.}
 \paragraph{Reply to Objection 2.}
@@ -286,31 +333,64 @@ A saint may know what is right through his/her inclinations. A person who has st
 \section{The Existence and Nature of God (2-43)}
 This section is broken into three sub-categories:
 \subsection{A. The Existence of God (2)}
+Here Thomas is trying to prove God's existence, soon thereafter he will describe what God is.
 \subsection{Question 2. The Existence of God}
 \paragraph{Article 1. Whether the existence of God is self-evident?}
+
+Here Aquinas will argue that while God's existence is self-evident, his essence, or nature, is beyond human understanding. Because we can not grasp all of what God is, He is not self-evident.
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{Objection 3.}
 \paragraph{On the contrary}
+Since there are people who exist who can say "There is no God", then God's existence is not self evident. It would have to be know by all intelligent creatures. See \href{https://en.wikipedia.org/wiki/Alex_O%27Connor}{Alex O'Connor}.
 \paragraph{I answer that}
 \paragraph{Reply to Objection 1.}
 \paragraph{Reply to Objection 2.}
 \paragraph{Reply to Objection 3.}
 
 \paragraph{Article 2. Whether it can be demonstrated that God exists?}
+The existence of God can be demonstrated through posteriori, but not priori. That is to say we can know God exist because of his created effects, E.G., creation. We can not know God through His esscence as His being is infinite and therefore beyond our reason. A brief commentary about the difference between \textit{a priori} and \textit{a posteriori} argumentation was made back in I.1.7 (First Part, Question 1, Article 7). 
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
+
+If we can't know the essence of God, then we can't know if He actually exists.
 \paragraph{Objection 3.}
 \paragraph{On the contrary}
 \paragraph{I answer that}
+There is two ways to demonstrate that something is, 
+
+Cause, "priori"
+
+and
+
+Effect, "posteriori".
+
+We can know God exists because of His effects which depend upon His Cause. In simple terms, we can know there is an architect because we see the building. We can not know the architect because we're ants to His personhood. We can gleem that He built it, but we can not grasp Who He is.
 \paragraph{Reply to Objection 1.}
 \paragraph{Reply to Objection 2.}
 \paragraph{Reply to Objection 3.}
 
 \paragraph{Article 3. Whether God exists?}
+Here we are gifted with Thomas's Five Ways, that is, Five Ways we can know God exists. These terms are distinct and irreduicible, but appear to be the same thing at first glance. Note, this section takes a strong grasp of metaphysics to fully understand the significance as they are basically summaries of something the reader should already be familiar with. Therefore, I implore a greater authority to rework this section.
+
+These are also often reffered to as St. Thomas Aquinas's ontological arguments. The significance of calling them ontological arguments is the recognition that these are arguements based on the fundamental reality of being. Ontological arguments were popular in the medeival ages, and thus there are several that appeal to various aspects of being. To provide an example, an almost equally famous ontological argument is that of St. Anselm. The argument of St. Anselm is as follows: ``a being than which no greater being can be conceived.'' The idea of this argument is took a moment to imagine the greatest possible being. Now ask the question, does it exist? If the answer to this question is no, than it is not the greatest possible being because if it had existence it would be greater still. Thus, this being which no greater can be conceived we call God.\footnote{Personal opinion: I believe this is a great argument for those who already have faith as opposed to drawing people to belief in God from aetheism. I do know someone who credits this argument with their conversion, which is to say God's grace is more powerful and immense than we can imagine.} This argument will share similarities with Aquinas's fourth way, but it also gives a pretext for the philosophical exercise that ontological arguments require. The majority of Aquinas's Five Ways will borrow a principle from Aristotle. Namely, the rejection of real infinites. The idea, emerging as a counter to Zeno's paradox, that real infinites (as in the infinite division of distance) are physical impossible whereas mathematical infinites (as in the infinitely divisible number line are possible).
+
+Another significant note is to recognize the limitations of these arguments. In short, they do not prove the existence of the loving personal God, nor do they prove the existence of the Triune God. Rather they merely prove that God must exist. To say nothing about specific attributes which will be the subject of many of the following questions.
+
+\begin{enumerate}
+    \item From Motion: The First Mover, or the Unmoved Mover. This explains why change is happening now. There must be a first mover that does not depend on temporal creation. In addition, this argument makes reference to the important philosophical principles of potency and act.\footnote{Reference to this may need to be added to the introduction} In short, potency refers to that which is possible to later exist in act. As an acorn is in potency to becoming a large oak. The large oak in this instance does not have existence. Rather the process of planting the acorn and allowing it to grow, is what changes this potency into act. The \textit{argument from motion} is not a reflection on Newtonian physics, but is instead focused on how the potent realities that we see everywhere have existence. Everything in creation is in motion to a different state. This is only possible if there exists a being that is already pure act in order to bring these potencies into existence. A notion that will be explored more in the following questions. Still at this moment we can conclude with Aquinas's words, ``this everyone understands to be God.''
+    \item From Efficient Causality: First Efficient Cause, basically something had to get the ball rolling. Feel free to reference the introduction for the philosphical introduction to address questions here. This argument is constructed from the application of the four causes in Aristotelian philosophy. Those being: material, formal, final, and efficient. Effecient cause is identified as the agent that produces the change. As the painter is the efficient cause that causes the paint brush to move and results in paint being applied to the canvas. The painting cannot come into existence without the multitude of steps that occur through each interaction of the painter. In a like manner, there must be a singular efficient cause to Creation. Otherwise, there would be an infinite regress without any one cause having converted potency to act, since that which is in potency is not capable of converting itself into act through its own power. Therefore, we can conclude with Aquinas's words regarding the first effecient causality, ``to which everyone gives the name of God.''
+    \item From Contingency and Necessity: The Necessary Being, creation is contingent on something as nothing can come from nothing. Therefore, there had to be a creator. Let's return to the acorn example from the first way. If we take this same acorn and crush it with a steam roller, the large oak tree will never come into existence. According to this the oak tree that we are discussing is a contingent being, meaning that it is possible for it to not exist. There is a famous principle amongst the ancient Greek philosophers, presented here in Latin because we don't know Greek, \textit{ex nihilo, nihil fit} (out of nothing, nothing comes). In order for Creation to exist, it must have been created. This seems obvious until you realize that means there must exist a being of pure act capable of producing Creation. The implications of which will be explored more in the following questions. Still with this we arrive again at Aquinas's words that, ``this all men speak of as God.''
+    \item From Gradation: This is one of the moments were our advances in science can make it a little difficult to read Aquinas. In particular, our understanding of thermodynamics and the physics of heat transfer undermine Aquinas's example. The important aspect though is what the ability to make comparisons implies. If we, under our finite conditions, can make comparisons then that implies that there must be a maximum in any category by which all comparisons can be based. The Maximum of Perfection, if transcendentals such as goodness, or truth exists then there must be a perfect good and a perfect truth, which is God. God is the fullness of being, this is known as a participation argument. Many aspects of this argument can be considered as paralleling aspects of Anselm's argument. To which we conclude with the base understanding of ``this we call God.''
+    \item From Governance: As the second way dealt with efficient causality, this way deals with formal causality. The Intelligent Govenor, natural, unintelligent things all act towards a end. ``Gotta make that money, man''\cite{eazye} Recall the philosophical introduction regarding Plato's realm of the Forms and Aristotle's hylomorphism. Both were trying to address why creation operates towards a specific end. The reality that creation is intelligible and not a mere amalgamation of collected parts reveals this reality. The question is what is the origin of this comprehensibility. The formal cause defines what something is and the end it is ordered towards. The fact that all beings have a formal cause implies that there must have been an intelligible being that bestowed this formal cause as the principle of intelligibilty. To which we conclude with Aquinas, ``this being we call God.''
+\end{enumerate}
+
+Change, causation, existence, perfection, and order each require a distinct ultimate explanation, and these explanations converge on one reality. God exists as The First Mover, The First Cause, The Necessary Being, The Maximum of Perfection, and the Intelligent Governor.
+
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{On the contrary}
+True mic drop moment regarding ontology.
 \paragraph{I answer that}
 \paragraph{Reply to Objection 1.}
 \paragraph{Reply to Objection 2.}
@@ -318,8 +398,18 @@ This section is broken into three sub-categories:
 
 \subsection{B. The attributes of the divine nature (3-26)}
 \subsection{Question 3. The simplicity of God}
+Now that we have established God's existence, we will cover the \textit{simplicity} of God. This is to say that God is metaphysically simple, not intellectually so. This is to say that God does not have any basic principles, He is basic principles. To put this in English, a man can be wise, God is wisdom; a man can be good, God is goodness; etc... Further, in God His goodness is His wisdom is His power is His being. God does not have different parts, He is. Hence the sacred name I am who am (cf. Exod 3:14 and remember I.1.8 validated use of Sacred Scripture as an argumentative source\footnote{Comments like this will decrease as we make it further into the project}).
+
+\textbf{Welcome to the Challenges of Trinitarian Theology and Christology}
+
+There are a few ideas that will be explored in-depth throughout the Summa and, not to get ahead of ourselves, this is one of those key aspects that make these ideas difficult/impossible to comprehend. Divine simplicity, the principle that God cannot consist of any multiplicity is absolute. For if there is multiplicity in God, then aspects of God would have been in potency first and thus lesser than the principle that brought them into act. God being perfect, must also be simple. Then I am going to tell you that God is a Triune composition of three persons, but not in the exact manner that you commonly know the term `person' to be used. Instead that is merely the best term to have. The Trinity does not mean that there is a multiplicity in God. Then, I am also going to tell you that the Second person of the Trinity, Jesus Christ, became man in time and in Creation. I am also going to tell you that this does not violate Divine Simplicity (at this point we are rapidly approaching the limits of what can be understood). Rather what is known as the hypostatic union takes place where the Second person of the Trinity, and only the second Person of the Trinity, united human nature with divine nature. Such that Jesus Christ is both human and divine. Not one or the other but both simultaneously. We have now experience of realities like this so they seem to violate the very essence of Creation, but this is the true nature of our God. I hope you are having fun, because we are only just getting started. Let's dive into the basic metaphysical principles of God!
+
+Notice in the preamble portion of this question Aquinas is asserting that the path we are taking to knowledge of God is the \textit{via negativa}. That is to say the path of asserting what God is not. For although we cannot grasp God perfectly, we can assert what God must not be and that still gets us closer to what God is.
 
 \paragraph{Article 1. Whether God is a body?}
+Seminarians chime in here, but my understanding is that God in his divine nature does not have a body. That is to say God is outside of creation as that is the only way that He can be the First Mover. That said Christ in His \textit{human nature} has a body. The mystery of the hypostatic union is how God, Creator of Creation and therefore wholely outside of Creation, entered into Creation, assumed our lowly flesh, united it to His divine nature, and by dying has elevated us to the potency of sharing in His divine nature (more on this in the Christological passages). 
+
+If we are not ready to accept the principles of the Five Ways then these Questions will seem illogical. The greatness of the Summa is how each Question intentionally builds on the previous ones. The proof that God cannot have a body is manifest, because such a body would necessitate potency in God, which would violate how we described God in I.2.3.
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{Objection 3.}
@@ -334,6 +424,7 @@ This section is broken into three sub-categories:
 \paragraph{Reply to Objection 5.}
 
 \paragraph{Article 2. Whether God is composed of matter and form?}
+This is a continuation of Article one in the sense that it is asking if God is a non-bodily entity composed of matter. This may seem apparently obvious until you consider the existence of angels. With this you realize that there does exist incorporeal being that still have a matter to their composition. The nuance is that a body is clearly defined, God is not a body, nor does He have physical characteristics. He is outside of creation. Again, this gets confusing with the Incarnation, but we'll get there. Recognize that matter in this instance is referring to the principle that enables all potency within contingent beings. As God is the only necessary being matter does not apply to God.
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{Objection 3.}
@@ -344,6 +435,7 @@ This section is broken into three sub-categories:
 \paragraph{Reply to Objection 3.}
 
 \paragraph{Article 3. Whether God is the same as His essence or nature?}
+This harkens back to whether God is purely the virtues. Simply put, God is not composed of things, He is them. See the introduction to Question 3. Article 4 may help to illuminate some of the distinctions that Aquinas makes in this article.
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{On the contrary}
@@ -352,6 +444,7 @@ This section is broken into three sub-categories:
 \paragraph{Reply to Objection 2.}
 
 \paragraph{Article 4. Whether essence and existence are the same in God?}
+This is asking, ``Is God a thing that has being, or a thing being itself.'' God is being, for if he weren't all of the preceeding points about God's essence would be in contradiction. Further, God could not have been the being of the five ways for he would not be a Pure Act. Let's consider Aquinas's example of fire. When something is set on fire it is said to be participating in the nature of fire as it is now sharing this quality from the original source of fire. Fire in this case becomes a formal cause to explain the end it is being actualized towards. This idea is very Platonic. Plato's philosophy held that all of creation participated in the Form of the good which informed all creation and marked our final end. What Aquinas is demonstrating is that God's essence must be the same as His existence. For if this were not the case, that would mean that God is participating in the formal cause of another principle that is causing God's existence. Accordingly, this is how we are able to understand that we only exist through participation in God's being.
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{On the contrary}
@@ -360,6 +453,7 @@ This section is broken into three sub-categories:
 \paragraph{Reply to Objection 2.}
 
 \paragraph{Article 5. Whether God is contained in a genus?}
+Genus as a philosophical term is similar to how it is used nowadays as a biological term. Genus is the over-arching structure of a set, of which individuals are species. This is a very Aristotelian notion. The traditional example of this, is the definition of human as a rational animal. That being the difference + genus. Where difference is rational and genus is animal. That being said in philosophy we may discuss the genus of humans of which you are one species. As such, it may mirror set theory a little more than biology. As God is indefinable it does not make sense to apply these terms to God.
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{On the contrary}
@@ -368,6 +462,9 @@ This section is broken into three sub-categories:
 \paragraph{Reply to Objection 2.}
 
 \paragraph{Article 6. Whether in God there are any accidents?}
+If you haven't picked up these articles flow to the conclusion of the original question; let's recap.
+God is not a body(a.1), nor does he have a physical form(a.2). He is metaphysically simple (a.3), and He is His existence. Therefore, God can not be any genus. Put in other words, God can not be defined, not because he is indeterminate, but because He is existence itself. To be in a genus God would have to have a limited essence, but He is pure essence in the metaphysical sense. In short, those qualities that are accidental in us (such as wisdom, goodness, love, etc.) are not accidental qualities in God, but substantial aspects of His essence. God is not good, in the sense that we may say ``that is a good man.'' God is goodness itself.
+% Well said!
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{On the contrary}
@@ -376,6 +473,8 @@ This section is broken into three sub-categories:
 \paragraph{Reply to Objection 2.}
 
 \paragraph{Article 7. Whether God is altogether simple?}
+This article has 2 parts, it shows that God is the pure being, by showing this we can conclude that he is not a composite. That is God is, as explained in the introduction, without parts in any sense. God is his essence and is consequentially immutable (unchanging), indivisible, eternal, and perfect (Lacking nothing). Note, God being described as having multiple essences perfectly is a distinction made for our comprehension. That is to say in God wisdom is not different than justice is not different than love. This essence is God, and the virtues we attribute to Him are how we can grasp at His singular essence. The argument Aquinas reference from Hilary is beautiful here. Namely, that it does not make sense for God to be composed of the very elements that only have intelligibility because of God. The Creator has no need to be constructed from His Creation because He is infinitely greater than His Creation.
+
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{On the contrary}
@@ -384,9 +483,11 @@ This section is broken into three sub-categories:
 \paragraph{Reply to Objection 2.}
 
 \paragraph{Article 8. Whether God enters into the composition of other things?}
+This is an arguement that basically sounds like, ``God is simple, but maybe the entirety of the universe is a composite of God and matter.'' It does not belong to the first efficient cause to also be entirely the material cause. Aquinas refutes this as God transcends creation yet causes its creation and sustains it without losing His simplicity. 
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{Objection 3.}
+The notion of if prime matter exists. This is a fun philosophical topic. How does the entity of pure potency have existence? Afterall, existence requires act.
 \paragraph{On the contrary}
 \paragraph{I answer that}
 \paragraph{Reply to Objection 1.}
@@ -395,7 +496,9 @@ This section is broken into three sub-categories:
 
 
 \subsection{Question 4. The Perfection of God}
+An interesting note to pay attention to in the intro to this question, is how Aquinas is using \textit{good} in a transcendental sense. Here we are engaging with why Theology is the highest of sciences. For we are truly entering into metaphyiscs at this point. The term `transcendental' is one of the most important philosophical terms. The reason for this is that it is describing the core properties of being in absolute simplicity. As the previous question revealed, simply because something is simple does not make it easy to understand. As such, there is a great deal of discussion that has taken place over the centuries.\footnote{On a personal note: my Master's Thesis was on the analogical nature of beauty. A portion of which explores beauty's transcendental status. All this to say discussions over transcendentals are of interest to me, but I recognize are immensely complex. - Will Whitlow} Good as a transcendental is a strong candidate for the best understood of the transcendentals. As we begin discussing transcendentals, we arrive at the fun notion that everything, insofar as it has being, is good. The metaphysical definition of evil is merely the privation of the good. Now good in this sense refers to the degree to which a being achieves perfection. Evil, therefore, is the degree to which perfection is lacking. It is for this reason that Aquinas addresses God's perfection before addressing goodness.
 \paragraph{Article 1. Whether God is perfect?}
+Once more this revolves around the distinction to whether the first principle is a material or efficient cause. Which in other terms asks whether the origin of Creation arises from matter or act. If the first principle is matter, then it will imperfect as it is only a principle of potency. If it is of act, then it must be perfect because it is pure act. Therefore, since God is the first effecient cause, we can conclude that God is perfect.
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{Objection 3.}
@@ -406,6 +509,7 @@ This section is broken into three sub-categories:
 \paragraph{Reply to Objection 3.}
 
 \paragraph{Article 2. Whether the perfections of all things are in God?}
+All that it seems odd that the multitude of beings in creation would have the perfection in God, this follows from the principle of God as first efficient cause. Since as the cause that put's everything else in motion, it is also the cause that produces the effectst that are seen in Creation. As such, the perfect ends of all things exist as they find their origin in God, their effecient cause. 
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{Objection 3.}
@@ -416,6 +520,7 @@ This section is broken into three sub-categories:
 \paragraph{Reply to Objection 3.}
 
 \paragraph{Article 3. Whether any creature can be like God?}
+What do we mean by like? That's the questions Aquinas is truly asking at this moment. In this regarding there is a qualified manner by which creatures can be said to be like God.
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}
 \paragraph{Objection 3.}
@@ -429,6 +534,15 @@ This section is broken into three sub-categories:
 
 
 \subsection{Question 5. Goodness in general}
+Now at last we come to the main philosophical event. Now we are going to address good as a transcendental.
+\paragraph{What is a Transcendental?}
+The very notion of a transcendental is a topic that has been implicitly referenced in the previous question, but now it is time to address it directly. I desperately wish that this would be a simple definition to give. Experience has taught me that it is quite the opposite. To begin, the standard list of transcendentals are Good, Truth, and Beauty. Even presenting this list as such represents an oversimplification, wherein many philosophers will agree unequivocally and many will be fumming over another presentation of this list. In addition, other elements that are often included in the transcendental discussion are One, Thing, and Something. To conclude the summary in set theory mode. Many philosophers will define the Three Transcendentals as Truth, Goodness, and Beauty. Aquinas, in \textit{De Vertitatae}, defines Five Transcendentals as One, Good, Truth, Thing, and Something. The distinctions between these lists are more so due to the distinctions of how the term transcendental is defined rather than the actual metaphyiscal properties of the respective elements contained within. In discussions I have discerned two similar, but different definitions of a transcendental. The first is what I will call the co-extensive definition. This means that an property that is universally present in all manners of being is a transcendental. The other definition is what I will term the positive definition of transcendental. What this means is that the transcendental should add a positive aspect to being. According to this definition, the three transcendentals are One, Good, and True. Thing and Something, even according to the distinction of Aquinas, are more logical and relational distinctions. Therefore, they are noteworthy, but not often the subject of discussions around transcendentals. Let's proceed with a brief explanation of the main transcendentals.
+\begin{enumerate}
+    \item One - the idea that each element of being is its own self contained individual. This is the principle wherein we are capable of representing a form as being distinct from another. Accordingly, one shares similarities with thing and something, but is an important aspect as it provides the wholeness aspect to being.
+    \item Good - good in a metaphyiscal sense is the end that something is ordered towards. A good car is one that drives and runs smoothly. A good man is one who does not steal but gives to charity. A good apple tree is one that produces fruit. If the apple tree were not to produce fruit, then it would not be achieving the end that its nature is ordered to. Therefore, it would not be a good apple tree.
+    \item Truth - describes the essence of a being. To say that a being is an apple tree implies knowledge of what the term `apple tree' refers to. Therefore, truth provides knowledge of the form extracted from the being.\footnote{Warning: this is an initial forray into epistemology. More will probably arise when we reach Q15 Divine Ideas}
+    \item Beauty - is a transcendental that only truly seems to imply when one utilizes the co-extensive definition. This will be addressed in more explicit detail when discussing Article 4 of this Question, and in Question 39. I will argue that beauty is only possible to comprehend if one grasps the other three transcendentals. Let's continue with this apple tree example. Let's say that you are 10 miles away from an orchid of apple trees. At this distance you cannot distinguish one tree from another and, therefore, you cannot discern their beauty. Now, let's say you approach the orchid. However, you were born and raised in a country where apple trees could not grow. First you must know the truth of what an apple tree is in order to grasp their beauty. Let's say you have studied apple trees and know how to evaluate them. Then you will know the end of the apple trees and you will be able to identify the degree to which they are fulfilling this end. Accordingly, you will be able to grasp the goodness of each apple tree (even if you lack this level of study, if you saw all the trees producing fruit, and one that did not, you could discern that tree was less good then the others). The degree to which you are able to evaluate all three of these transcendentals, is the degree to which you are able to ascertain the beauty. Does that mean the apple tree was not beautiful when it was 10 miles away? or before you knew what an apple tree was? or grasped its degree of perfection according to its goodness? No! Rather, this means that it is through knowledge of all this things that beauty can be discerned. Thus, it is always present in every element of being. The limitations are on our experience and knowledge. This also means that an arborist is the most qualified to determine the beauty of any particular apple tree, through the wealth of their experience and knowledge. This is a lot to take in and distills my thoughts on beauty rather quickly. As this is an area of expertise of mine, please ask questions and expect more comments to continue.
+\end{enumerate}
 \paragraph{Article 1. Whether goodness differs really from being?}
 \paragraph{Objection 1.}
 \paragraph{Objection 2.}

@@ -64,10 +64,16 @@
 			A Simplified Commentary on the Summa\\
             \thesisauthor
 		\end{center}
+        
+        \begin{figure}[h!]
+            \centering
+            \includegraphics[width=0.5\textwidth]{aquinas-rsz.png}
+            \caption{St Thomas Aquinas}
+        \end{figure}
+    
 	\end{titlepage}
 	\hypersetup{pageanchor=true}
 }
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
