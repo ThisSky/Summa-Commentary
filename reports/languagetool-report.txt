@@ -6,3 +6,7 @@ Checking ./Simplified_Commentary_of_the_Summa.tex
 Checking ./Simplified_Commentary_of_the_Summa.tex
 ====================================
 
+====================================
+Checking ./Simplified_Commentary_of_the_Summa.tex
+====================================
+
