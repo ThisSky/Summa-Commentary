@@ -2008,5 +2008,5 @@ Message: Possible spelling mistake found.
 Suggestion: print bibliography
 ...  \paragraph{E. Penance (84-90)} \clearpage \printbibliography \end{document}  
                                                 ^^^^^^^^^^^^^^^^^                 
-Time: 16860ms for 1349 sentences (80.0 sentences/sec)
+Time: 18207ms for 1349 sentences (74.1 sentences/sec)
 
