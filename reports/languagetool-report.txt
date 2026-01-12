@@ -616,1311 +616,1454 @@ Message: Three successive sentences begin with the same word. Consider rewording
 100.) Line 298, column 93, Rule ID: EN_COMPOUNDS_SELF_EVIDENT premium: false prio=2
 Message: This word is normally spelled with a hyphen.
 Suggestion: self-evident
-...here is no God", then God's existence is not self evident. It would have to be know by all intelligent...
+...here is no God", then God's existence is not self evident. It would have to be known by all intelligen...
                                                 ^^^^^^^^^^^^                                             
 
-101.) Line 298, column 127, Rule ID: BE_VBP_IN[2] premium: false prio=-12
-Message: The past participle is required after ?to be?.
-Suggestion: known
-...nce is not self evident. It would have to be know by all intelligent creatures. See https://en...
-                                                ^^^^                                             
-
-102.) Line 298, column 127, Rule ID: BEEN_PART_AGREEMENT[9] premium: false prio=-13
-Message: Consider using either the past participle ?known? or the present participle ?knowing? here.
-Suggestion: known; knowing
-...nce is not self evident. It would have to be know by all intelligent creatures. See https://en...
-                                                ^^^^                                             
-More info: https://languagetool.org/insights/post/verb-tenses/
-
-103.) Line 305, column 50, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+101.) Line 305, column 50, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: posterior; posteriors
 ...existence of God can be demonstrated through posteriori, but not priori. That is to say we can know ...
                                                 ^^^^^^^^^^                                             
 
-104.) Line 305, column 70, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+102.) Line 305, column 70, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: prior; priory; priors
 ... be demonstrated through posteriori, but not priori. That is to say we can know God exist becaus...
                                                 ^^^^^^                                             
 
-105.) Line 305, column 109, Rule ID: HE_VERB_AGR[5] premium: false prio=-12
+103.) Line 305, column 109, Rule ID: HE_VERB_AGR[5] premium: false prio=-12
 Message: The singular proper name ?God? must be used with a third-person or a past tense verb.
 Suggestion: exists; existed
 ...t not priori. That is to say we can know God exist because of his created effects, E.G., creati...
                                                 ^^^^^                                             
 
-106.) Line 305, column 195, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+104.) Line 305, column 195, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: essence
 ...., creation. We can not know God through His esscence as His being is infinite and therefore beyon...
                                                 ^^^^^^^^                                             
 
-107.) Line 313, column 1, Rule ID: THERE_S_MANY[4] premium: false
+105.) Line 313, column 1, Rule ID: THERE_S_MANY[4] premium: false
 Message: Did you mean ?There are two ways??
 Suggestion: There are two ways
 .... Objection 3. On the contrary I answer that There is two ways to demonstrate that something is,   Cause, "...
                                                 ^^^^^^^^^^^^^^^^^                                             
 
-108.) Line 315, column 9, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+106.) Line 315, column 9, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: prior; priory; priors
 ... to demonstrate that something is,   Cause, "priori"  and  Effect, "posteriori".  We can know Go...
                                                 ^^^^^^                                             
 
-109.) Line 319, column 10, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+107.) Line 319, column 10, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: posterior; posteriors
 ...mething is,   Cause, "priori"  and  Effect, "posteriori".  We can know God exists because of His eff...
                                                 ^^^^^^^^^^                                             
 
-110.) Line 321, column 231, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+108.) Line 321, column 231, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: glee; gleam
 ...because we're ants to His personhood. We can gleem that He built it, but we can not grasp Who H...
                                                 ^^^^^                                             
 
-111.) Line 324, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+109.) Line 324, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 1. Reply to Objection 2. Reply to Objection 3.  Article 3. Whether God exis...
                                                 ^^^^^                                             
 
-112.) Line 327, column 117, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+110.) Line 327, column 117, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: irreducible
 ...now God exists. These terms are distinct and irreduicible, but appear to be the same thing at first gl...
                                                 ^^^^^^^^^^^^                                             
 
-113.) Line 329, column 22, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+111.) Line 329, column 22, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: referred; offered; suffered; referee; rendered
 ...o rework this section.  These are also often reffered to as St. Thomas Aquinas's ontological argum...
                                                 ^^^^^^^^                                             
 
-114.) Line 329, column 170, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+112.) Line 329, column 170, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: arguments
 ... arguments is the recognition that these are arguements based on the fundamental reality of being. O...
                                                 ^^^^^^^^^^                                             
 
-115.) Line 329, column 266, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+113.) Line 329, column 266, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: medieval
 ...g. Ontological arguments were popular in the medeival ages, and thus there are several that appeal...
                                                 ^^^^^^^^                                             
 
-116.) Line 329, column 568, Rule ID: BEEN_PART_AGREEMENT[9] premium: false prio=-13
+114.) Line 329, column 568, Rule ID: BEEN_PART_AGREEMENT[9] premium: false prio=-13
 Message: Consider using either the past participle ?taken? or the present participle ?taking? here.
 Suggestion: taken; taking
 ... be conceived." The idea of this argument is took a moment to imagine the greatest possible be...
                                                 ^^^^                                             
 More info: https://languagetool.org/insights/post/verb-tenses/
 
-117.) Line 329, column 626, Rule ID: ASK_THE_QUESTION[1] premium: false prio=-50
+115.) Line 329, column 626, Rule ID: ASK_THE_QUESTION[1] premium: false prio=-50
 Message: Consider using ?ask? instead.
 Suggestion: ask
 ... to imagine the greatest possible being. Now ask the question, does it exist? If the answer to this questi...
                                                 ^^^^^^^^^^^^^^^^                                             
 More info: https://languagetool.org/insights/post/wordiness/
 
-118.) Line 329, column 697, Rule ID: COMMA_THAN[1] premium: false
+116.) Line 329, column 697, Rule ID: COMMA_THAN[1] premium: false
 Message: Did you mean ?then??
 Suggestion: then
 ...exist? If the answer to this question is no, than it is not the greatest possible being becaus...
                                                 ^^^^                                             
 More info: https://languagetool.org/insights/post/word-choice-than-vs-then/
 
-119.) Line 329, column 996, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+117.) Line 329, column 996, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: atheism
 ...osed to drawing people to belief in God from aetheism. I do know someone who credits this argument...
                                                 ^^^^^^^^                                             
 
-120.) Line 329, column 1418, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+118.) Line 329, column 1418, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: infinite; infinities
 ...rom Aristotle. Namely, the rejection of real infinites. The idea, emerging as a counter to Zeno's p...
                                                 ^^^^^^^^^                                             
 
-121.) Line 329, column 1490, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+119.) Line 329, column 1490, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: infinite; infinities
 ...ng as a counter to Zeno's paradox, that real infinites (as in the infinite division of distance) ar...
                                                 ^^^^^^^^^                                             
 
-122.) Line 329, column 1587, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+120.) Line 329, column 1587, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: infinite; infinities
 ...are physical impossible whereas mathematical infinites (as in the infinitely divisible number line ...
                                                 ^^^^^^^^^                                             
 
-123.) Line 334, column 1, Rule ID: WHITESPACE_RULE premium: false
+121.) Line 334, column 1, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...ubject of many of the following questions.       From Motion: The First Mover, or the Unmoved ...
                                                 ^^^^                                             
 
-124.) Line 335, column 1, Rule ID: WHITESPACE_RULE premium: false
+122.) Line 335, column 1, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...ords, "this everyone understands to be God."     From Efficient Causality: First Efficient Cau...
                                                 ^^^^                                             
 
-125.) Line 335, column 151, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+123.) Line 335, column 151, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: philosophical
 ...l free to reference the introduction for the philosphical introduction to address questions here. This...
                                                 ^^^^^^^^^^^^                                             
 
-126.) Line 335, column 354, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+124.) Line 335, column 354, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Efficient
 ...ing: material, formal, final, and efficient. Effecient cause is identified as the agent that produc...
                                                 ^^^^^^^^^                                             
 
-127.) Line 335, column 1010, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+125.) Line 335, column 1010, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: efficient
 ...ude with Aquinas's words regarding the first effecient causality, "to which everyone gives the name...
                                                 ^^^^^^^^^                                             
 
-128.) Line 336, column 1, Rule ID: WHITESPACE_RULE premium: false
+126.) Line 336, column 1, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ..., "to which everyone gives the name of God."     From Contingency and Necessity: The Necessary...
                                                 ^^^^                                             
 
-129.) Line 336, column 582, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+127.) Line 336, column 582, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Hilo; Nikhil
 ...ere in Latin because we don't know Greek, ex nihilo, nihil fit (out of nothing, nothing comes). ...
                                                 ^^^^^^                                             
 
-130.) Line 336, column 590, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+128.) Line 336, column 590, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Nikhil
 ...atin because we don't know Greek, ex nihilo, nihil fit (out of nothing, nothing comes). In orde...
                                                 ^^^^^                                             
 
-131.) Line 337, column 1, Rule ID: WHITESPACE_RULE premium: false
+129.) Line 337, column 1, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ... words that, "this all men speak of as God."     From Gradation: This is one of the moments we...
                                                 ^^^^                                             
 
-132.) Line 337, column 504, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+130.) Line 337, column 504, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: transcendental
 ... can be based. The Maximum of Perfection, if transcendentals such as goodness, or truth exists then there...
                                                 ^^^^^^^^^^^^^^^                                             
 
-133.) Line 338, column 1, Rule ID: WHITESPACE_RULE premium: false
+131.) Line 338, column 1, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...he base understanding of "this we call God."     From Governance: As the second way dealt with...
                                                 ^^^^                                             
 
-134.) Line 338, column 126, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+132.) Line 338, column 126, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Governor
 ...deals with formal causality. The Intelligent Govenor, natural, unintelligent things all act towar...
                                                 ^^^^^^^                                             
 
-135.) Line 338, column 181, Rule ID: EN_A_VS_AN premium: false prio=-1
+133.) Line 338, column 181, Rule ID: EN_A_VS_AN premium: false prio=-1
 Message: Use ?an? instead of ?a? if the following word starts with a vowel sound, e.g.??an article?, ?an hour?.
 Suggestion: an
 ...atural, unintelligent things all act towards a end. "Gotta make that money, man" Recall the...
                                                 ^                                             
 More info: https://languagetool.org/insights/post/indefinite-articles/
 
-136.) Line 338, column 308, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+134.) Line 338, column 308, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: homomorphism; allomorphism
 ...g Plato's realm of the Forms and Aristotle's hylomorphism. Both were trying to address why creation op...
                                                 ^^^^^^^^^^^^                                             
 
-137.) Line 338, column 800, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+135.) Line 338, column 800, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: intelligibility
 ...stowed this formal cause as the principle of intelligibilty. To which we conclude with Aquinas, "this be...
                                                 ^^^^^^^^^^^^^^                                             
 
-138.) Line 353, column 454, Rule ID: SENT_START_CONJUNCTIVE_LINKING_ADVERB_COMMA[1] premium: false
+136.) Line 353, column 454, Rule ID: SENT_START_CONJUNCTIVE_LINKING_ADVERB_COMMA[1] premium: false
 Message: A comma may be missing after the conjunctive/linking adverb ?Hence?.
 Suggestion: Hence,
 ...g. God does not have different parts, He is. Hence the sacred name I am who am (cf. Exod 3:14 a...
                                                 ^^^^^                                             
 More info: https://languagetool.org/insights/post/linking-words/
 
-139.) Line 353, column 493, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+137.) Line 353, column 493, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Exon; EOD
 ...e is. Hence the sacred name I am who am (cf. Exod 3:14 and remember I.1.8 validated use of Sac...
                                                 ^^^^                                             
 
-140.) Line 353, column 582, Rule ID: SPACE_BEFORE_PARENTHESIS[1] premium: false
+138.) Line 353, column 582, Rule ID: SPACE_BEFORE_PARENTHESIS[1] premium: false
 Message: It appears that a white space is missing.
 Suggestion:  (
 ...f Sacred Scripture as an argumentative source(Comments like this will decrease as we make i...
                                                 ^                                             
 More info: https://languagetool.org/insights/post/punctuation-guide/#what-are-parentheses
 
-141.) Line 357, column 69, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+139.) Line 357, column 69, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Summat
 ...hat will be explored in-depth throughout the Summa and, not to get ahead of ourselves, this is ...
                                                 ^^^^^                                             
 
-142.) Line 357, column 645, Rule ID: SENT_START_CONJUNCTIVE_LINKING_ADVERB_COMMA[1] premium: false
+140.) Line 357, column 645, Rule ID: SENT_START_CONJUNCTIVE_LINKING_ADVERB_COMMA[1] premium: false
 Message: A comma may be missing after the conjunctive/linking adverb ?Instead?.
 Suggestion: Instead,
 ... commonly know the term 'person' to be used. Instead that is merely the best term to have. The Tr...
                                                 ^^^^^^^                                             
 More info: https://languagetool.org/insights/post/linking-words/
 
-143.) Line 357, column 1318, Rule ID: HAVE_PART_AGREEMENT[2] premium: false prio=-13
+141.) Line 357, column 1318, Rule ID: HAVE_PART_AGREEMENT[2] premium: false prio=-13
 Message: Possible agreement error -- use the past participle here.
 Suggestion: experienced
 ...e other but both simultaneously. We have now experience of realities like this so they seem to viola...
                                                 ^^^^^^^^^^                                             
 More info: https://languagetool.org/insights/post/to-have-grammar/
 
-144.) Line 357, column 1351, Rule ID: COMMA_COMPOUND_SENTENCE[1] premium: false prio=-1
+142.) Line 357, column 1351, Rule ID: COMMA_COMPOUND_SENTENCE[1] premium: false prio=-1
 Message: Use a comma before ?so? if it connects two independent clauses (unless they are closely connected and short).
 Suggestion: , so
 ...We have now experience of realities like this so they seem to violate the very essence of Cre...
                                                 ^^^                                             
 More info: https://languagetool.org/insights/post/types-of-sentences/#compound-sentence
 
-145.) Line 359, column 129, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+143.) Line 359, column 129, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: negative
 ...we are taking to knowledge of God is the via negativa. That is to say the path of asserting what G...
                                                 ^^^^^^^^                                             
 
-146.) Line 362, column 333, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+144.) Line 362, column 333, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: wholly
 ...s how God, Creator of Creation and therefore wholely outside of Creation, entered into Creation, ...
                                                 ^^^^^^^                                             
 
-147.) Line 362, column 539, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+145.) Line 362, column 539, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Histological
 ...ng in His divine nature (more on this in the Christological passages).   If we are not ready to accept t...
                                                 ^^^^^^^^^^^^^^                                             
 
-148.) Line 364, column 126, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+146.) Line 364, column 126, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Summat
 ...ns will seem illogical. The greatness of the Summa is how each Question intentionally builds on...
                                                 ^^^^^                                             
 
-149.) Line 367, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+147.) Line 367, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ibed God in I.2.3. Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. On the contrary...
                                                 ^^^^^^^^^                                             
 
-150.) Line 368, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+148.) Line 368, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ....2.3. Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-151.) Line 369, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+149.) Line 369, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 1. Objection 2. Objection 3. Objection 4. Objection 5. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-152.) Line 375, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+150.) Line 375, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5.  Artic...
                                                 ^^^^^                                             
 
-153.) Line 376, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+151.) Line 376, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5.  Article 2. Whether God is c...
                                                 ^^^^^                                             
 
-154.) Line 379, column 264, Rule ID: PLURAL_VERB_AFTER_THIS[5] premium: false prio=-1
+152.) Line 379, column 264, Rule ID: PLURAL_VERB_AFTER_THIS[5] premium: false prio=-1
 Message: The verb ?have? is plural.
 Suggestion: still has; stills have
 ...that there does exist incorporeal being that still have a matter to their composition. The nuance is...
                                                 ^^^^^^^^^^                                             
 
-155.) Line 382, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+153.) Line 382, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... not apply to God. Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-156.) Line 390, column 6, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+154.) Line 390, column 6, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: hardens; darkens; hearkens; hark ens; harken
 ...d is the same as His essence or nature? This harkens back to whether God is purely the virtues. S...
                                                 ^^^^^^^                                             
 
-157.) Line 399, column 107, Rule ID: ALL_OF_THE[1] premium: false prio=-50
+155.) Line 399, column 107, Rule ID: ALL_OF_THE[1] premium: false prio=-50
 Message: Consider using ?all the?.
 Suggestion: all the
 ...ing itself." God is being, for if he weren't all of the preceeding points about God's essence would ...
                                                 ^^^^^^^^^^                                             
 More info: https://languagetool.org/insights/post/wordiness/
 
-158.) Line 399, column 118, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+156.) Line 399, column 118, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: preceding; proceeding
 ..." God is being, for if he weren't all of the preceeding points about God's essence would be in contr...
                                                 ^^^^^^^^^^                                             
 
-159.) Line 399, column 617, Rule ID: ALL_MOST_SOME_OF_NOUN[1] premium: false
+157.) Line 399, column 617, Rule ID: ALL_MOST_SOME_OF_NOUN[1] premium: false
 Message: Consider using ?all creation? or ?all of the creation?.
 Suggestion: all creation; all of the creation
 ... very Platonic. Plato's philosophy held that all of creation participated in the Form of the good which i...
                                                 ^^^^^^^^^^^^^^^                                             
 
-160.) Line 428, column 476, Rule ID: DIFFERENT_THAN[1] premium: false prio=-50
+158.) Line 428, column 476, Rule ID: DIFFERENT_THAN[1] premium: false prio=-50
 Message: Did you mean ?different from?? ?Different than? is often considered colloquial style.
 Suggestion: from
 ...hat is to say in God wisdom is not different than justice is not different than love. This ess...
                                                 ^^^^                                             
 
-161.) Line 428, column 506, Rule ID: DIFFERENT_THAN[1] premium: false prio=-50
+159.) Line 428, column 506, Rule ID: DIFFERENT_THAN[1] premium: false prio=-50
 Message: Did you mean ?different from?? ?Different than? is often considered colloquial style.
 Suggestion: from
 ... not different than justice is not different than love. This essence is God, and the virtues w...
                                                 ^^^^                                             
 
-162.) Line 438, column 12, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+160.) Line 438, column 12, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: argument
 ... the composition of other things? This is an arguement that basically sounds like, "God is simple, ...
                                                 ^^^^^^^^^                                             
 
-163.) Line 442, column 126, Rule ID: AFTERALL[1] premium: false
+161.) Line 442, column 126, Rule ID: AFTERALL[1] premium: false
 Message: Did you mean ?after all??
 Suggestion: After all
 ...s the entity of pure potency have existence? Afterall, existence requires act. On the contrary I a...
                                                 ^^^^^^^^                                             
 
-164.) Line 442, column 126, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+162.) Line 442, column 126, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: After all
 ...s the entity of pure potency have existence? Afterall, existence requires act. On the contrary I a...
                                                 ^^^^^^^^                                             
 
-165.) Line 451, column 226, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+163.) Line 451, column 226, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: metaphysics
 ... of sciences. For we are truly entering into metaphyiscs at this point. The term 'transcendental' is ...
                                                 ^^^^^^^^^^^                                             
 
-166.) Line 451, column 792, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+164.) Line 451, column 792, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: transcendental
 ...tal status. All this to say discussions over transcendentals are of interest to me, but I recognize are i...
                                                 ^^^^^^^^^^^^^^^                                             
 
-167.) Line 451, column 877, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+165.) Line 451, column 877, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Whit low
 ...ut I recognize are immensely complex. - Will Whitlow) Good as a transcendental is a strong candid...
                                                 ^^^^^^^                                             
 
-168.) Line 451, column 894, Rule ID: DT_JJ_NO_NOUN[2] premium: false prio=-1
+166.) Line 451, column 894, Rule ID: DT_JJ_NO_NOUN[2] premium: false prio=-1
 Message: A noun may be missing here.
 ...e immensely complex. - Will Whitlow) Good as a transcendental is a strong candidate for the best understoo...
                                                 ^^^^^^^^^^^^^^^^                                             
 
-169.) Line 451, column 964, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+167.) Line 451, column 964, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: transcendental
 ...ong candidate for the best understood of the transcendentals. As we begin discussing transcendentals, we ...
                                                 ^^^^^^^^^^^^^^^                                             
 
-170.) Line 451, column 1004, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+168.) Line 451, column 1004, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: transcendental
 ... the transcendentals. As we begin discussing transcendentals, we arrive at the fun notion that everything...
                                                 ^^^^^^^^^^^^^^^                                             
 
-171.) Line 453, column 244, Rule ID: PRP_MD_NN[6] premium: false prio=-12
+169.) Line 453, column 244, Rule ID: PRP_MD_NN[6] premium: false prio=-12
 Message: The word ?imperfect? is a noun or an adjective. A verb or adverb is missing or misspelled here, or maybe a comma is missing.
 ... the first principle is matter, then it will imperfect as it is only a principle of potency. If it ...
                                                 ^^^^^^^^^                                             
 
-172.) Line 453, column 391, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+170.) Line 453, column 391, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: efficient
 ... pure act. Therefore, since God is the first effecient cause, we can conclude that God is perfect. ...
                                                 ^^^^^^^^^                                             
 
-173.) Line 456, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+171.) Line 456, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...at God is perfect. Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-174.) Line 464, column 259, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+172.) Line 464, column 259, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: effects
 ...tion, it is also the cause that produces the effectst that are seen in Creation. As such, the perf...
                                                 ^^^^^^^^                                             
 
-175.) Line 464, column 381, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+173.) Line 464, column 381, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: efficient
 ...xist as they find their origin in God, their effecient cause.  Objection 1. Objection 2. Objection ...
                                                 ^^^^^^^^^                                             
 
-176.) Line 478, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+174.) Line 478, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...id to be like God. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-177.) Line 479, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+175.) Line 479, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... God. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-178.) Line 485, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+176.) Line 485, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.   Question 5. Goodness in ge...
                                                 ^^^^^                                             
 
-179.) Line 491, column 20, Rule ID: DT_JJ_NO_NOUN[2] premium: false prio=-1
+177.) Line 491, column 20, Rule ID: DT_JJ_NO_NOUN[2] premium: false prio=-1
 Message: A noun may be missing here.
 ...What is a Transcendental? The very notion of a transcendental is a topic that has been implicitly referenc...
                                                 ^^^^^^^^^^^^^^^^                                             
 
-180.) Line 491, column 307, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+178.) Line 491, column 307, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: transcendental
 ...the opposite. To begin, the standard list of transcendentals are Good, Truth, and Beauty. Even presenting...
                                                 ^^^^^^^^^^^^^^^                                             
 
-181.) Line 491, column 488, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+179.) Line 491, column 488, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: summing; humming; fuming; bumming; gumming
 ...rs will agree unequivocally and many will be fumming over another presentation of this list. In a...
                                                 ^^^^^^^                                             
 
-182.) Line 491, column 736, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+180.) Line 491, column 736, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Transcendental
 ...ode. Many philosophers will define the Three Transcendentals as Truth, Goodness, and Beauty. Aquinas, in ...
                                                 ^^^^^^^^^^^^^^^                                             
 
-183.) Line 491, column 799, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+181.) Line 491, column 799, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Veritable; Ventilate
 ... Truth, Goodness, and Beauty. Aquinas, in De Vertitatae, defines Five Transcendentals as One, Good, ...
                                                 ^^^^^^^^^^                                             
 
-184.) Line 491, column 824, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+182.) Line 491, column 824, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Transcendental
 ...uty. Aquinas, in De Vertitatae, defines Five Transcendentals as One, Good, Truth, Thing, and Something. T...
                                                 ^^^^^^^^^^^^^^^                                             
 
-185.) Line 491, column 1021, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+183.) Line 491, column 1021, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: metaphysical
 ...scendental is defined rather than the actual metaphyiscal properties of the respective elements contai...
                                                 ^^^^^^^^^^^^                                             
 
-186.) Line 491, column 1093, Rule ID: MISSING_COMMA_AFTER_INTRODUCTORY_PHRASE[1] premium: false
+184.) Line 491, column 1093, Rule ID: MISSING_COMMA_AFTER_INTRODUCTORY_PHRASE[1] premium: false
 Message: A comma is probably missing here.
 Suggestion: discussions,
 ...the respective elements contained within. In discussions I have discerned two similar, but different ...
                                                 ^^^^^^^^^^^                                             
 More info: http://englishplus.com/grammar/00000074.htm
 
-187.) Line 491, column 1216, Rule ID: EN_COMPOUNDS_CO_EXTENSIVE premium: false prio=2
+185.) Line 491, column 1216, Rule ID: EN_COMPOUNDS_CO_EXTENSIVE premium: false prio=2
 Message: This word is normally spelled as one.
 Suggestion: coextensive
 ...cendental. The first is what I will call the co-extensive definition. This means that an property that...
                                                 ^^^^^^^^^^^^                                             
 
-188.) Line 491, column 1257, Rule ID: EN_A_VS_AN premium: false prio=-1
+186.) Line 491, column 1257, Rule ID: EN_A_VS_AN premium: false prio=-1
 Message: Use ?a? instead of ?an? if the following word doesn?t start with a vowel sound, e.g.??a sentence?, ?a university?.
 Suggestion: a
 ...the co-extensive definition. This means that an property that is universally present in all ...
                                                 ^^                                             
 More info: https://languagetool.org/insights/post/indefinite-articles/
 
-189.) Line 491, column 1548, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+187.) Line 491, column 1548, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: transcendental
 ...ing. According to this definition, the three transcendentals are One, Good, and True. Thing and Something...
                                                 ^^^^^^^^^^^^^^^                                             
 
-190.) Line 491, column 1763, Rule ID: DISCUSSIONS_AROUND[1] premium: false
+188.) Line 491, column 1763, Rule ID: DISCUSSIONS_AROUND[1] premium: false
 Message: Did you mean ?discussions about??
 Suggestion: discussions about
 ...are noteworthy, but not often the subject of discussions around transcendentals. Let's proceed with a brief ...
                                                 ^^^^^^^^^^^^^^^^^^                                             
 
-191.) Line 491, column 1782, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+189.) Line 491, column 1782, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: transcendental
 ... not often the subject of discussions around transcendentals. Let's proceed with a brief explanation of t...
                                                 ^^^^^^^^^^^^^^^                                             
 
-192.) Line 491, column 1850, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+190.) Line 491, column 1850, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: transcendental
 ...proceed with a brief explanation of the main transcendentals.      One - the idea that each element of be...
                                                 ^^^^^^^^^^^^^^^                                             
 
-193.) Line 493, column 1, Rule ID: WHITESPACE_RULE premium: false
+191.) Line 493, column 1, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...ef explanation of the main transcendentals.      One - the idea that each element of being is ...
                                                 ^^^^                                             
 
-194.) Line 493, column 58, Rule ID: EN_COMPOUNDS_SELF_CONTAINED premium: false prio=2
+192.) Line 493, column 58, Rule ID: EN_COMPOUNDS_SELF_CONTAINED premium: false prio=2
 Message: This word is normally spelled with a hyphen.
 Suggestion: self-contained
 ...e idea that each element of being is its own self contained individual. This is the principle wherein we...
                                                 ^^^^^^^^^^^^^^                                             
 
-195.) Line 493, column 58, Rule ID: ADVERB_OR_HYPHENATED_ADJECTIVE[2] premium: false prio=-1
+193.) Line 493, column 58, Rule ID: ADVERB_OR_HYPHENATED_ADJECTIVE[2] premium: false prio=-1
 Message: Make sure that the adjective ?self? is correct. Possibly, it should be an adverb (typically ~ly) that modifies ?contained?. Possibly, it should be the first word in a compound adjective (hyphenated adjective). Possibly, it is correct.
 ...e idea that each element of being is its own self contained individual. This is the principle wherein we...
                                                 ^^^^^^^^^^^^^^                                             
 More info: https://www.grammar.cl/english/compound-adjectives.htm
 
-196.) Line 494, column 1, Rule ID: WHITESPACE_RULE premium: false
+194.) Line 494, column 1, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...s it provides the wholeness aspect to being.     Good - good in a metaphyiscal sense is the en...
                                                 ^^^^                                             
 
-197.) Line 494, column 22, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+195.) Line 494, column 22, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: metaphysical
 ...leness aspect to being.     Good - good in a metaphyiscal sense is the end that something is ordered t...
                                                 ^^^^^^^^^^^^                                             
 
-198.) Line 495, column 1, Rule ID: WHITESPACE_RULE premium: false
+196.) Line 495, column 1, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...herefore, it would not be a good apple tree.     Truth - describes the essence of a being. To ...
                                                 ^^^^                                             
 
-199.) Line 495, column 245, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+197.) Line 495, column 245, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: foray; for ray
 ... from the being.(Warning: this is an initial forray into epistemology. More will probably arise ...
                                                 ^^^^^^                                             
 
-200.) Line 496, column 87, Rule ID: EN_COMPOUNDS_CO_EXTENSIVE premium: false prio=2
+198.) Line 496, column 87, Rule ID: EN_COMPOUNDS_CO_EXTENSIVE premium: false prio=2
 Message: This word is normally spelled as one.
 Suggestion: coextensive
 ...y truly seems to imply when one utilizes the co-extensive definition. This will be addressed in more e...
                                                 ^^^^^^^^^^^^                                             
 
-201.) Line 496, column 309, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+199.) Line 496, column 309, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: transcendental
 ... to comprehend if one grasps the other three transcendentals. Let's continue with this apple tree example...
                                                 ^^^^^^^^^^^^^^^                                             
 
-202.) Line 496, column 873, Rule ID: COMMA_COMPOUND_SENTENCE[1] premium: false prio=-1
+200.) Line 496, column 873, Rule ID: COMMA_COMPOUND_SENTENCE[1] premium: false prio=-1
 Message: Use a comma before ?and? if it connects two independent clauses (unless they are closely connected and short).
 Suggestion: , and
 ...Then you will know the end of the apple trees and you will be able to identify the degree to w...
                                                 ^^^^                                             
 More info: https://languagetool.org/insights/post/types-of-sentences/#compound-sentence
 
-203.) Line 496, column 1173, Rule ID: LESS_MORE_THEN[1] premium: false
+201.) Line 496, column 1173, Rule ID: LESS_MORE_THEN[1] premium: false
 Message: Did you mean ?than??
 Suggestion: than
 ...t, you could discern that tree was less good then the others). The degree to which you are abl...
                                                 ^^^^                                             
 More info: https://languagetool.org/insights/post/word-choice-than-vs-then/
 
-204.) Line 496, column 1255, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+202.) Line 496, column 1255, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: transcendental
 ... you are able to evaluate all three of these transcendentals, is the degree to which you are able to asce...
                                                 ^^^^^^^^^^^^^^^                                             
 
-205.) Line 496, column 1408, Rule ID: UPPERCASE_SENTENCE_START premium: false
+203.) Line 496, column 1408, Rule ID: UPPERCASE_SENTENCE_START premium: false
 Message: This sentence does not start with an uppercase letter.
 Suggestion: Or
 ...was not beautiful when it was 10 miles away? or before you knew what an apple tree was? or g...
                                                 ^^                                             
 More info: https://languagetool.org/insights/post/spelling-capital-letters/
 
-206.) Line 496, column 1451, Rule ID: UPPERCASE_SENTENCE_START premium: false
+204.) Line 496, column 1451, Rule ID: UPPERCASE_SENTENCE_START premium: false
 Message: This sentence does not start with an uppercase letter.
 Suggestion: Or
 ...? or before you knew what an apple tree was? or grasped its degree of perfection according t...
                                                 ^^                                             
 More info: https://languagetool.org/insights/post/spelling-capital-letters/
 
-207.) Line 496, column 1573, Rule ID: THIS_NNS[2] premium: false
+205.) Line 496, column 1573, Rule ID: THIS_NNS[2] premium: false
 Message: The singular determiner ?this? may not agree with the plural noun ?things?. Did you mean ?these??
 Suggestion: these
 ...is means that it is through knowledge of all this things that beauty can be discerned. Thus, i...
                                                 ^^^^                                             
 
-208.) Line 500, column 332, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+206.) Line 500, column 332, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Neoplatonic
 ...frequently with Boethius as one of his major neo-Platonic sources (plenty of room for more elaboration...
                                                 ^^^^^^^^^^^^                                             
 
-209.) Line 502, column 1, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+207.) Line 502, column 1, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Fiber; Liner; Liver; Libel; Liter
 ...e elaboration here if desired). Objection 2. Liber de Causis is another major neo-platonic sour...
                                                 ^^^^^                                             
 
-210.) Line 502, column 34, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+208.) Line 502, column 34, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Neoplatonic
 ...bjection 2. Liber de Causis is another major neo-platonic source that is incredibly influential. Objec...
                                                 ^^^^^^^^^^^^                                             
 
-211.) Line 527, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+209.) Line 527, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 3. Whether every be...
                                                 ^^^^^                                             
 
-212.) Line 533, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+210.) Line 533, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...sence of the good. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-213.) Line 534, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+211.) Line 534, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...good. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that This is Aqu...
                                                 ^^^^^^^^^                                             
 
-214.) Line 540, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+212.) Line 540, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 1. Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Mathem...
                                                 ^^^^^                                             
 
-215.) Line 541, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+213.) Line 541, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Mathematical entities (squar...
                                                 ^^^^^                                             
 
-216.) Line 545, column 62, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+214.) Line 545, column 62, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: efficient
 ...cannot be an end (or final cause) without an effecient and formal cause.  This is somewhat complex ...
                                                 ^^^^^^^^^                                             
 
-217.) Line 547, column 428, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+215.) Line 547, column 428, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: efficient
 ...goodness. In both these cases the formal and effecient causes are of absolute necessity. The goodne...
                                                 ^^^^^^^^^                                             
 
-218.) Line 550, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+216.) Line 550, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ins the final end. Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-219.) Line 554, column 75, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+217.) Line 554, column 75, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: Summat
 ...a transcendental? Ask about this part of the Summa at a convention of Thomistic Philosophers an...
                                                 ^^^^^                                             
 
-220.) Line 556, column 93, Rule ID: AFTERALL[1] premium: false
+218.) Line 556, column 93, Rule ID: AFTERALL[1] premium: false
 Message: Did you mean ?after all??
 Suggestion: After all
 ...cal does that mean beauty is transcendental. Afterall, beauty refers to the formal cause and is ev...
                                                 ^^^^^^^^                                             
 
-221.) Line 556, column 93, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+219.) Line 556, column 93, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: After all
 ...cal does that mean beauty is transcendental. Afterall, beauty refers to the formal cause and is ev...
                                                 ^^^^^^^^                                             
 
-222.) Line 564, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+220.) Line 564, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...eference to being. Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. On the contrary...
                                                 ^^^^^^^^^                                             
 
-223.) Line 565, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+221.) Line 565, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...eing. Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-224.) Line 566, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+222.) Line 566, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 1. Objection 2. Objection 3. Objection 4. Objection 5. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-225.) Line 572, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+223.) Line 572, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5.  Artic...
                                                 ^^^^^                                             
 
-226.) Line 573, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+224.) Line 573, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5.  Article 6. Whether goodness...
                                                 ^^^^^                                             
 
-227.) Line 579, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+225.) Line 579, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... justly perfected. Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-228.) Line 599, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+226.) Line 588, column 227, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: summat
+...al to one of the ultimate conclusions of the summa. That God is the ultimate good.  Article 1. ...
+                                                ^^^^^                                             
+
+227.) Line 602, column 53, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: nurturing; suturing
+...ng good as He is the source of creation, its nuturing and its end, is consequentially the ultimate...
+                                                ^^^^^^^^                                             
+
+228.) Line 602, column 180, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: attributed
+...ings, bar God, are depended on its end to be attributted with the quality of good. God in His essence...
+                                                ^^^^^^^^^^^                                             
+
+229.) Line 605, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-... the supreme good? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
+...ost excellent way. Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-229.) Line 609, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
-Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...ongs to God alone? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
+230.) Line 614, column 284, Rule ID: THE_CC[1] premium: false prio=-2
+Message: It appears that a noun is missing after ?the?.
+...rfected in Heaven? While they are perfect in the since of their quality, they are dependant o...
+                                                ^^^                                             
+
+231.) Line 614, column 284, Rule ID: DT_RB_IN[1] premium: false prio=-1
+Message: The adverb ?since? cannot be used like a noun.
+...rfected in Heaven? While they are perfect in the since of their quality, they are dependant on God ...
                                                 ^^^^^^^^^                                             
 
-230.) Line 626, column 345, Rule ID: WHETHER[7] premium: false prio=-50
+232.) Line 614, column 321, Rule ID: DEPENDENT[1] premium: false
+Message: Did you mean ?dependent? on?
+Suggestion: dependent
+...fect in the since of their quality, they are dependant on God for their existence. Further, the ang...
+                                                ^^^^^^^^^                                             
+More info: https://en.wiktionary.org/wiki/dependant
+
+233.) Line 614, column 321, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: dependent; defendant; depend ant
+...fect in the since of their quality, they are dependant on God for their existence. Further, the ang...
+                                                ^^^^^^^^^                                             
+
+234.) Line 614, column 426, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: infinite
+...d saints are finite and caused. God alone is infinte, uncaused and self-subsisting. He says as mu...
+                                                ^^^^^^^                                             
+
+235.) Line 615, column 5, Rule ID: EN_UNPAIRED_BRACKETS premium: false prio=-1
+Message: Unpaired symbol: ??? seems to be missing
+... "?You are my witnesses,? says the Lord,     ?and my servant whom I have chosen, that you m...
+                                                ^                                             
+More info: https://languagetool.org/insights/post/punctuation-guide/#what-are-parentheses
+
+236.) Line 624, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
+...e any after me."   Objection 1. Objection 2. Objection 3. On the contrary Recall the discussion of ...
+                                                ^^^^^^^^^                                             
+
+237.) Line 626, column 58, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: homomorphism; allomorphism
+...iscussion of Platonic Forms and Aristotelian hylomorphism from the Introduction. This comment from Boe...
+                                                ^^^^^^^^^^^^                                             
+
+238.) Line 626, column 160, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: Neoplatonism
+...thius, about participation, is an example of neo-Platonism. The idea of participation is a strongly Pla...
+                                                ^^^^^^^^^^^^^                                             
+
+239.) Line 643, column 345, Rule ID: WHETHER[7] premium: false prio=-50
 Message: Consider shortening this phrase to just ?whether?, unless you mean ?regardless of whether?.
 Suggestion: whether
 ...hen we cover the nature of His infinity, and whether or not other beings possess this quality. (Spoiler ...
                                                 ^^^^^^^^^^^^^^                                             
 More info: https://languagetool.org/insights/post/whether-vs-if/#when-to-use-%E2%80%9Cwhether%E2%80%9D
 
-231.) Line 632, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+240.) Line 649, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...finite? See intro. Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-232.) Line 640, column 447, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+241.) Line 657, column 447, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: spirit
 ...te spirit? I assume by needing to create the spirirt it couldn't be unmoved, (Seminarians): This ...
                                                 ^^^^^^^                                             
 
-233.) Line 640, column 880, Rule ID: MD_BASEFORM[3] premium: false prio=-12
+242.) Line 657, column 880, Rule ID: MD_BASEFORM[3] premium: false prio=-12
 Message: The modal verb ?could? requires the verb?s base form.
 Suggestion: create
 ..., I am going to say no, because if God could created an infinite spirit it would violate the argu...
                                                 ^^^^^^^                                             
 
-234.) Line 654, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+243.) Line 671, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... is pure act, I.3. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-235.) Line 655, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+244.) Line 672, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... I.3. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-236.) Line 661, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+245.) Line 678, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 4. Whether an infin...
                                                 ^^^^^                                             
 
-237.) Line 664, column 449, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+246.) Line 681, column 449, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: existence
 ...ng a created thing limits the reality of its exisitence. See Convergence and Bounding of Definite In...
                                                 ^^^^^^^^^^                                             
 
-238.) Line 667, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+247.) Line 684, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ke, but actually.) Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-239.) Line 680, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+248.) Line 697, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...bly united to God. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-240.) Line 681, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+249.) Line 698, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... God. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-241.) Line 687, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+250.) Line 704, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 2. Whether God is e...
                                                 ^^^^^                                             
 
-242.) Line 690, column 57, Rule ID: MAKER_COMPOUNDS[1] premium: false
+251.) Line 707, column 57, Rule ID: MAKER_COMPOUNDS[1] premium: false
 Message: This noun is normally spelled as one word.
 Suggestion: clockmaker
 ... contrary to the notion of the disinterested clock maker. One false idea of God is as an entity that ...
                                                 ^^^^^^^^^^^                                             
 
-243.) Line 690, column 207, Rule ID: ALL_MOST_SOME_OF_NOUN[1] premium: false
+252.) Line 707, column 207, Rule ID: ALL_MOST_SOME_OF_NOUN[1] premium: false
 Message: Consider using ?all creation? or ?all of the creation?.
 Suggestion: all creation; all of the creation
 ... interest in it. God is still omnipresent to all of creation. Of course, it becomes an interesting matter...
                                                 ^^^^^^^^^^^^^^^                                             
 
-244.) Line 704, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+253.) Line 721, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...n we will ever be. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-245.) Line 705, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+254.) Line 722, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...r be. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-246.) Line 711, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+255.) Line 728, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 4. Whether to be ev...
                                                 ^^^^^                                             
 
-247.) Line 717, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+256.) Line 734, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...t if God is there. Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On...
                                                 ^^^^^^^^^                                             
 
-248.) Line 718, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+257.) Line 735, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...here. Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary...
                                                 ^^^^^^^^^                                             
 
-249.) Line 719, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+258.) Line 736, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-250.) Line 720, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+259.) Line 737, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-251.) Line 726, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+260.) Line 743, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply ...
                                                 ^^^^^                                             
 
-252.) Line 727, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+261.) Line 744, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.   Ques...
                                                 ^^^^^                                             
 
-253.) Line 728, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+262.) Line 745, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.   Question 9. The immutabili...
                                                 ^^^^^                                             
 
-254.) Line 735, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+263.) Line 749, column 26, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: immutability
+...immutability of God This question covers the immuability, or the unchanging nature, of God. Aquinas w...
+                                                ^^^^^^^^^^^                                             
+
+264.) Line 749, column 376, Rule ID: WHITESPACE_RULE premium: false
+Message: Possible typo: you repeated a whitespace
+Suggestion:  
+...ure act and can therefore not transition from  "What He could be" to "What He is" as He alre...
+                                                ^^                                             
+
+265.) Line 749, column 448, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: fluent; flu tent
+...at He is" as He already is... this is a high flutent way of saying that God is incapable of chang...
+                                                ^^^^^^^                                             
+
+266.) Line 752, column 77, Rule ID: ENGLISH_WORD_REPEAT_RULE premium: false prio=-1
+Message: Possible typo: you repeated a word
+Suggestion: being
+...y of God in three ways. First, through God's being being pure act. Because God is act, he can not tra...
+                                                ^^^^^^^^^^^                                             
+
+267.) Line 752, column 416, Rule ID: NEITHER_NOR[1] premium: false prio=1
+Message: Use ?nor? with neither.
+Suggestion: nor
+... and perfect. Therefore, He can neither gain or lose, as He lacks nothing and His infinity i...
+                                                ^^                                             
+More info: https://languagetool.org/insights/post/word-choice-either-or-neither/
+
+268.) Line 752, column 636, Rule ID: ENGLISH_WORD_REPEAT_RULE premium: false prio=-1
+Message: Possible typo: you repeated a word
+Suggestion: Something
+...with His human nature vs. His divine nature. Something something this is a mystery.) Objection 1. Objection 2...
+                                                ^^^^^^^^^^^^^^^^^^^                                             
+
+269.) Line 755, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...ogether immutable? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
+...his is a mystery.) Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-255.) Line 745, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+270.) Line 766, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...ongs to God alone? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
+... the intro of Q.9. Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-256.) Line 757, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
-Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...nterminable life"? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. I ...
+271.) Line 775, column 36, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: unending; unbending; unsending
+...ty of God This question has to deal with the un-ending nature of God. It naturly flows from Q.9. th...
                                                 ^^^^^^^^^                                             
 
-257.) Line 758, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+272.) Line 775, column 64, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: natural; nature; naturally; natures; naturals
+...to deal with the un-ending nature of God. It naturly flows from Q.9. that if God is unchanging ov...
+                                                ^^^^^^^                                             
+
+273.) Line 775, column 88, Rule ID: UPPERCASE_SENTENCE_START premium: false
+Message: This sentence does not start with an uppercase letter.
+Suggestion: That
+...ng nature of God. It naturly flows from Q.9. that if God is unchanging over time, then over an...
+                                                ^^^^                                             
+More info: https://languagetool.org/insights/post/spelling-capital-letters/
+
+274.) Line 775, column 242, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: Simultaneously
+...e definition of eternity Aquinas uses is the Simultanesously whole and perfect possession of interminable...
+                                                ^^^^^^^^^^^^^^^                                             
+
+275.) Line 782, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...ife"? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. I answer that R...
+...ning terms. Help.) Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. I ...
                                                 ^^^^^^^^^                                             
 
-258.) Line 759, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+276.) Line 783, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
+...elp.) Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. I answer that R...
+                                                ^^^^^^^^^                                             
+
+277.) Line 784, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. I answer that Reply to Objec...
                                                 ^^^^^^^^^                                             
 
-259.) Line 760, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+278.) Line 785, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 2. Objection 3. Objection 4. Objection 5. Objection 6. I answer that Reply to Objection 1. Reply...
                                                 ^^^^^^^^^                                             
 
-260.) Line 765, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+279.) Line 790, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply ...
                                                 ^^^^^                                             
 
-261.) Line 766, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+280.) Line 791, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Artic...
                                                 ^^^^^                                             
 
-262.) Line 767, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+281.) Line 792, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Article 2. Whether God is e...
                                                 ^^^^^                                             
 
-263.) Line 772, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+282.) Line 798, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...er God is eternal? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
+...ver infinite time. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-264.) Line 773, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+283.) Line 799, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...rnal? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
+...time. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-265.) Line 779, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+284.) Line 805, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 3. Whether to be et...
                                                 ^^^^^                                             
 
-266.) Line 784, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+285.) Line 811, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...ongs to God alone? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
+...g waxes and wanes. Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-267.) Line 794, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+286.) Line 822, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...differs from time? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
+...er. See the intro. Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-268.) Line 801, column 30, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+287.) Line 829, column 30, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: eternity
-...o Objection 3.  Article 5. The difference of aeviternity and time Objection 1. Objection 2. Objection...
+...o Objection 3.  Article 5. The difference of aeviternity and time Aveiternity is the dynamic between ...
                                                 ^^^^^^^^^^^                                             
 
-269.) Line 805, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+288.) Line 830, column 1, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: Fraternity
+...le 5. The difference of aeviternity and time Aveiternity is the dynamic between eternity and existenc...
+                                                ^^^^^^^^^^^                                             
+
+289.) Line 830, column 155, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: fraternity
+..., the readers, are inside of time. Note that aveiternity has a beginning, but no end. There was a tim...
+                                                ^^^^^^^^^^^                                             
+
+290.) Line 833, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-... time Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
+... not exist.(Joke.) Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-270.) Line 811, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+291.) Line 834, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
+...oke.) Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
+                                                ^^^^^^^^^                                             
+
+292.) Line 840, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 6. Whether there is...
                                                 ^^^^^                                             
 
-271.) Line 813, column 38, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+293.) Line 842, column 38, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: eternity
-...ion 4.  Article 6. Whether there is only one aeviternity? Objection 1. Objection 2. Objection 3. Obje...
+...ion 4.  Article 6. Whether there is only one aeviternity? This question is asking whether there is on...
                                                 ^^^^^^^^^^^                                             
 
-272.) Line 816, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+294.) Line 843, column 107, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: fluent; flu tent
+...istence or many. While the nuance seems high flutent, it is important to ask whether there was a ...
+                                                ^^^^^^^                                             
+
+295.) Line 843, column 256, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+Message: Possible spelling mistake found.
+Suggestion: fraternity
+... there is a first movement and therefore one aveiternity. (Thus, Aquinas would likely disapprove of t...
+                                                ^^^^^^^^^^^                                             
+
+296.) Line 846, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...y one aeviternity? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
+...nematic universe.) Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-273.) Line 817, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+297.) Line 847, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...nity? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
+...rse.) Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-274.) Line 823, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+298.) Line 853, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.   Question 11. The unity of ...
                                                 ^^^^^                                             
 
-275.) Line 830, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+299.) Line 860, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ything to "being"? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-276.) Line 840, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+300.) Line 870, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...sed to each other? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-277.) Line 841, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+301.) Line 871, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ther? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-278.) Line 847, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+302.) Line 877, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 3. Whether God is o...
                                                 ^^^^^                                             
 
-279.) Line 860, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+303.) Line 890, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... is supremely one? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-280.) Line 872, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+304.) Line 902, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...he essence of God? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-281.) Line 873, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+305.) Line 903, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... God? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-282.) Line 879, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+306.) Line 909, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 2. Whether the esse...
                                                 ^^^^^                                             
 
-283.) Line 884, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+307.) Line 914, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... through an image? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-284.) Line 894, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+308.) Line 924, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...th the bodily eye? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-285.) Line 904, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+309.) Line 934, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...he Divine essence? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-286.) Line 914, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+310.) Line 944, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...he essence of God? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-287.) Line 924, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+311.) Line 954, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ctly than another? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-288.) Line 934, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+312.) Line 964, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...od comprehend Him? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-289.) Line 944, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+313.) Line 974, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...od see all in God? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-290.) Line 945, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+314.) Line 975, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... God? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-291.) Line 951, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+315.) Line 981, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 9. Whether what is ...
                                                 ^^^^^                                             
 
-292.) Line 972, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+316.) Line 1002, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...he essence of God? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-293.) Line 973, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+317.) Line 1003, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... God? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-294.) Line 979, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+318.) Line 1009, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply ...
                                                 ^^^^^                                             
 
-295.) Line 980, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+319.) Line 1010, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Artic...
                                                 ^^^^^                                             
 
-296.) Line 981, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+320.) Line 1011, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Article 12. Whether goodnes...
                                                 ^^^^^                                             
 
-297.) Line 986, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+321.) Line 1016, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...really from being? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-298.) Line 996, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+322.) Line 1026, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...by natural reason? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-299.) Line 1008, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+323.) Line 1038, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...n be given to God? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-300.) Line 1018, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+324.) Line 1048, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...God substantially? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-301.) Line 1028, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+325.) Line 1058, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...its literal sense? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-302.) Line 1038, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+326.) Line 1068, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...od are synonymous? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-303.) Line 1045, column 60, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+327.) Line 1075, column 60, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 ...ther what is said of God and of creatures is univocally predicated of them? Objection 1. Objection 2...
                                                 ^^^^^^^^^^                                             
 
-304.) Line 1048, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+328.) Line 1078, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...redicated of them? Objection 1. Objection 2. Objection 3.  On the contrary I answer that Reply to O...
                                                 ^^^^^^^^^                                             
 
-305.) Line 1059, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+329.) Line 1089, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...rily of creatures? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On...
                                                 ^^^^^^^^^                                             
 
-306.) Line 1060, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+330.) Line 1090, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ures? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary...
                                                 ^^^^^^^^^                                             
 
-307.) Line 1061, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+331.) Line 1091, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-308.) Line 1062, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+332.) Line 1092, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-309.) Line 1068, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+333.) Line 1098, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply ...
                                                 ^^^^^                                             
 
-310.) Line 1069, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+334.) Line 1099, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Artic...
                                                 ^^^^^                                             
 
-311.) Line 1070, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+335.) Line 1100, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Article 7. Whether names wh...
                                                 ^^^^^                                             
 
-312.) Line 1075, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+336.) Line 1105, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...of God temporally? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On...
                                                 ^^^^^^^^^                                             
 
-313.) Line 1076, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+337.) Line 1106, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ally? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary...
                                                 ^^^^^^^^^                                             
 
-314.) Line 1077, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+338.) Line 1107, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-315.) Line 1078, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+339.) Line 1108, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-316.) Line 1084, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+340.) Line 1114, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply ...
                                                 ^^^^^                                             
 
-317.) Line 1085, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+341.) Line 1115, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Artic...
                                                 ^^^^^                                             
 
-318.) Line 1086, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+342.) Line 1116, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Article 8. Whether this nam...
                                                 ^^^^^                                             
 
-319.) Line 1099, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+343.) Line 1129, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ..." is communicable? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-320.) Line 1106, column 55, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+344.) Line 1136, column 55, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 ...0. Whether this name "God" is applied to God univocally by nature, by participation, and according t...
                                                 ^^^^^^^^^^                                             
 
-321.) Line 1109, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+345.) Line 1139, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ording to opinion? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. On the contrary...
                                                 ^^^^^^^^^                                             
 
-322.) Line 1110, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+346.) Line 1140, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...nion? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-323.) Line 1111, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+347.) Line 1141, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 1. Objection 2. Objection 3. Objection 4. Objection 5. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-324.) Line 1117, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+348.) Line 1147, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5.  Artic...
                                                 ^^^^^                                             
 
-325.) Line 1118, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+349.) Line 1148, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5.  Article 11. Whether this na...
                                                 ^^^^^                                             
 
-326.) Line 1123, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+350.) Line 1153, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...roper name of God? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-327.) Line 1133, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+351.) Line 1163, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... formed about God? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-328.) Line 1178, column 21, Rule ID: EN_WORD_COHERENCY premium: false
+352.) Line 1208, column 21, Rule ID: EN_WORD_COHERENCY premium: false
 Message: Do not mix variants of the same word (?among? and ?amongst?) within a single text.
 Suggestion: amongst
 ...atures: creation (44-46) B. The distinctions among creatures 1.   The distinctions among things...
                                                 ^^^^^                                             
 
-329.) Line 1179, column 4, Rule ID: WHITESPACE_RULE premium: false
+353.) Line 1209, column 4, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...4-46) B. The distinctions among creatures 1.   The distinctions among things in general (47-...
                                                 ^^                                             
 
-330.) Line 1179, column 23, Rule ID: EN_WORD_COHERENCY premium: false
+354.) Line 1209, column 23, Rule ID: EN_WORD_COHERENCY premium: false
 Message: Do not mix variants of the same word (?among? and ?amongst?) within a single text.
 Suggestion: amongst
 ...ctions among creatures 1.   The distinctions among things in general (47-49) 2.   Angels (50-64...
                                                 ^^^^^                                             
 
-331.) Line 1180, column 4, Rule ID: WHITESPACE_RULE premium: false
+355.) Line 1210, column 4, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...tinctions among things in general (47-49) 2.   Angels (50-64) 3.   Corporeal creatures (65-1...
                                                 ^^                                             
 
-332.) Line 1181, column 4, Rule ID: WHITESPACE_RULE premium: false
+356.) Line 1211, column 4, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...gs in general (47-49) 2.   Angels (50-64) 3.   Corporeal creatures (65-102) a. The six days ...
                                                 ^^                                             
 
-333.) Line 1185, column 4, Rule ID: WHITESPACE_RULE premium: false
+357.) Line 1215, column 4, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...(75-102) C. God?s governance of the world 1.   The governance of creatures in general (103-1...
                                                 ^^                                             
 
-334.) Line 1186, column 4, Rule ID: WHITESPACE_RULE premium: false
+358.) Line 1216, column 4, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...ernance of creatures in general (103-104) 2.   The actions of creatures on one another (105-...
                                                 ^^                                             
-Time: 13804ms for 1332 sentences (96.5 sentences/sec)
+Time: 15983ms for 1412 sentences (88.3 sentences/sec)
 
