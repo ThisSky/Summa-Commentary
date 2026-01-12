@@ -1382,28 +1382,28 @@ Message: Three successive sentences begin with the same word. Consider rewording
 ...ongs to God alone? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-230.) Line 626, column 299, Rule ID: ENGLISH_WORD_REPEAT_RULE premium: false prio=-1
-Message: Possible typo: you repeated a word
-Suggestion: we
-... this by showing God is not finite. Further, we we cover the nature of His infinity, and whethe...
-                                                ^^^^^                                             
-
-231.) Line 626, column 343, Rule ID: WHETHER[7] premium: false prio=-50
+230.) Line 626, column 345, Rule ID: WHETHER[7] premium: false prio=-50
 Message: Consider shortening this phrase to just ?whether?, unless you mean ?regardless of whether?.
 Suggestion: whether
-... we we cover the nature of His infinity, and whether or not other beings possess this quality. (Spoiler ...
+...hen we cover the nature of His infinity, and whether or not other beings possess this quality. (Spoiler ...
                                                 ^^^^^^^^^^^^^^                                             
 More info: https://languagetool.org/insights/post/whether-vs-if/#when-to-use-%E2%80%9Cwhether%E2%80%9D
 
-232.) Line 632, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+231.) Line 632, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...finite? See intro. Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-233.) Line 640, column 447, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+232.) Line 640, column 447, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: spirit
-...te spirit? I assume by needing to create the spirirt it couldn't be unmoved, (Seminarians)) Objec...
+...te spirit? I assume by needing to create the spirirt it couldn't be unmoved, (Seminarians): This ...
+                                                ^^^^^^^                                             
+
+233.) Line 640, column 880, Rule ID: MD_BASEFORM[3] premium: false prio=-12
+Message: The modal verb ?could? requires the verb?s base form.
+Suggestion: create
+..., I am going to say no, because if God could created an infinite spirit it would violate the argu...
                                                 ^^^^^^^                                             
 
 234.) Line 654, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
@@ -1432,488 +1432,495 @@ Message: Three successive sentences begin with the same word. Consider rewording
 ...ke, but actually.) Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-239.) Line 679, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+239.) Line 680, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-... is in all things? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
+...bly united to God. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-240.) Line 680, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+240.) Line 681, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...ings? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
+... God. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-241.) Line 686, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+241.) Line 687, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 2. Whether God is e...
                                                 ^^^^^                                             
 
-242.) Line 691, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+242.) Line 690, column 57, Rule ID: MAKER_COMPOUNDS[1] premium: false
+Message: This noun is normally spelled as one word.
+Suggestion: clockmaker
+... contrary to the notion of the disinterested clock maker. One false idea of God is as an entity that ...
+                                                ^^^^^^^^^^^                                             
+
+243.) Line 690, column 207, Rule ID: ALL_MOST_SOME_OF_NOUN[1] premium: false
+Message: Consider using ?all creation? or ?all of the creation?.
+Suggestion: all creation; all of the creation
+... interest in it. God is still omnipresent to all of creation. Of course, it becomes an interesting matter...
+                                                ^^^^^^^^^^^^^^^                                             
+
+244.) Line 704, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...God is everywhere? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
+...n we will ever be. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-243.) Line 701, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+245.) Line 705, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...resence and power? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
+...r be. Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-244.) Line 702, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
-Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...ower? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
-                                                ^^^^^^^^^                                             
-
-245.) Line 708, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+246.) Line 711, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 4. Whether to be ev...
                                                 ^^^^^                                             
 
-246.) Line 713, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+247.) Line 717, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...ongs to God alone? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On...
+...t if God is there. Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On...
                                                 ^^^^^^^^^                                             
 
-247.) Line 714, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+248.) Line 718, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
-...lone? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary...
+...here. Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary...
                                                 ^^^^^^^^^                                             
 
-248.) Line 715, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+249.) Line 719, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-249.) Line 716, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+250.) Line 720, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-250.) Line 722, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+251.) Line 726, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply ...
                                                 ^^^^^                                             
 
-251.) Line 723, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+252.) Line 727, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.   Ques...
                                                 ^^^^^                                             
 
-252.) Line 724, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+253.) Line 728, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.   Question 9. The immutabili...
                                                 ^^^^^                                             
 
-253.) Line 731, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+254.) Line 735, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ogether immutable? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-254.) Line 741, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+255.) Line 745, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ongs to God alone? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-255.) Line 753, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+256.) Line 757, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...nterminable life"? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. I ...
                                                 ^^^^^^^^^                                             
 
-256.) Line 754, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+257.) Line 758, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ife"? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. I answer that R...
                                                 ^^^^^^^^^                                             
 
-257.) Line 755, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+258.) Line 759, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. I answer that Reply to Objec...
                                                 ^^^^^^^^^                                             
 
-258.) Line 756, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+259.) Line 760, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 2. Objection 3. Objection 4. Objection 5. Objection 6. I answer that Reply to Objection 1. Reply...
                                                 ^^^^^^^^^                                             
 
-259.) Line 761, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+260.) Line 765, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply ...
                                                 ^^^^^                                             
 
-260.) Line 762, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+261.) Line 766, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Artic...
                                                 ^^^^^                                             
 
-261.) Line 763, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+262.) Line 767, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Article 2. Whether God is e...
                                                 ^^^^^                                             
 
-262.) Line 768, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+263.) Line 772, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...er God is eternal? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-263.) Line 769, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+264.) Line 773, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...rnal? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-264.) Line 775, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+265.) Line 779, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 3. Whether to be et...
                                                 ^^^^^                                             
 
-265.) Line 780, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+266.) Line 784, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ongs to God alone? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-266.) Line 790, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+267.) Line 794, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...differs from time? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-267.) Line 797, column 30, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+268.) Line 801, column 30, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: eternity
 ...o Objection 3.  Article 5. The difference of aeviternity and time Objection 1. Objection 2. Objection...
                                                 ^^^^^^^^^^^                                             
 
-268.) Line 801, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+269.) Line 805, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... time Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-269.) Line 807, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+270.) Line 811, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 6. Whether there is...
                                                 ^^^^^                                             
 
-270.) Line 809, column 38, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+271.) Line 813, column 38, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 Suggestion: eternity
 ...ion 4.  Article 6. Whether there is only one aeviternity? Objection 1. Objection 2. Objection 3. Obje...
                                                 ^^^^^^^^^^^                                             
 
-271.) Line 812, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+272.) Line 816, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...y one aeviternity? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-272.) Line 813, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+273.) Line 817, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...nity? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-273.) Line 819, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+274.) Line 823, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.   Question 11. The unity of ...
                                                 ^^^^^                                             
 
-274.) Line 826, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+275.) Line 830, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ything to "being"? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-275.) Line 836, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+276.) Line 840, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...sed to each other? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-276.) Line 837, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+277.) Line 841, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ther? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-277.) Line 843, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+278.) Line 847, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 3. Whether God is o...
                                                 ^^^^^                                             
 
-278.) Line 856, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+279.) Line 860, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... is supremely one? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-279.) Line 868, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+280.) Line 872, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...he essence of God? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-280.) Line 869, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+281.) Line 873, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... God? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-281.) Line 875, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+282.) Line 879, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 2. Whether the esse...
                                                 ^^^^^                                             
 
-282.) Line 880, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+283.) Line 884, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... through an image? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-283.) Line 890, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+284.) Line 894, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...th the bodily eye? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-284.) Line 900, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+285.) Line 904, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...he Divine essence? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-285.) Line 910, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+286.) Line 914, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...he essence of God? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-286.) Line 920, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+287.) Line 924, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ctly than another? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-287.) Line 930, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+288.) Line 934, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...od comprehend Him? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-288.) Line 940, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+289.) Line 944, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...od see all in God? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-289.) Line 941, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+290.) Line 945, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... God? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-290.) Line 947, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+291.) Line 951, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4.  Article 9. Whether what is ...
                                                 ^^^^^                                             
 
-291.) Line 968, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+292.) Line 972, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...he essence of God? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-292.) Line 969, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+293.) Line 973, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... God? Objection 1. Objection 2. Objection 3. Objection 4. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-293.) Line 975, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+294.) Line 979, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply ...
                                                 ^^^^^                                             
 
-294.) Line 976, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+295.) Line 980, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Artic...
                                                 ^^^^^                                             
 
-295.) Line 977, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+296.) Line 981, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Article 12. Whether goodnes...
                                                 ^^^^^                                             
 
-296.) Line 982, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+297.) Line 986, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...really from being? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-297.) Line 992, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+298.) Line 996, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...by natural reason? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-298.) Line 1004, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+299.) Line 1008, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...n be given to God? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-299.) Line 1014, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+300.) Line 1018, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...God substantially? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-300.) Line 1024, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+301.) Line 1028, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...its literal sense? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-301.) Line 1034, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+302.) Line 1038, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...od are synonymous? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-302.) Line 1041, column 60, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+303.) Line 1045, column 60, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 ...ther what is said of God and of creatures is univocally predicated of them? Objection 1. Objection 2...
                                                 ^^^^^^^^^^                                             
 
-303.) Line 1044, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+304.) Line 1048, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...redicated of them? Objection 1. Objection 2. Objection 3.  On the contrary I answer that Reply to O...
                                                 ^^^^^^^^^                                             
 
-304.) Line 1055, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+305.) Line 1059, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...rily of creatures? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On...
                                                 ^^^^^^^^^                                             
 
-305.) Line 1056, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+306.) Line 1060, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ures? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary...
                                                 ^^^^^^^^^                                             
 
-306.) Line 1057, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+307.) Line 1061, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-307.) Line 1058, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+308.) Line 1062, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-308.) Line 1064, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+309.) Line 1068, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply ...
                                                 ^^^^^                                             
 
-309.) Line 1065, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+310.) Line 1069, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Artic...
                                                 ^^^^^                                             
 
-310.) Line 1066, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+311.) Line 1070, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Article 7. Whether names wh...
                                                 ^^^^^                                             
 
-311.) Line 1071, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+312.) Line 1075, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...of God temporally? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On...
                                                 ^^^^^^^^^                                             
 
-312.) Line 1072, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+313.) Line 1076, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ally? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary...
                                                 ^^^^^^^^^                                             
 
-313.) Line 1073, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+314.) Line 1077, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 1. Objection 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-314.) Line 1074, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+315.) Line 1078, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 2. Objection 3. Objection 4. Objection 5. Objection 6. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-315.) Line 1080, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+316.) Line 1084, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply ...
                                                 ^^^^^                                             
 
-316.) Line 1081, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+317.) Line 1085, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Artic...
                                                 ^^^^^                                             
 
-317.) Line 1082, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+318.) Line 1086, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 4. Reply to Objection 5. Reply to Objection 6.  Article 8. Whether this nam...
                                                 ^^^^^                                             
 
-318.) Line 1095, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+319.) Line 1099, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ..." is communicable? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-319.) Line 1102, column 55, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
+320.) Line 1106, column 55, Rule ID: MORFOLOGIK_RULE_EN_US premium: false prio=-10
 Message: Possible spelling mistake found.
 ...0. Whether this name "God" is applied to God univocally by nature, by participation, and according t...
                                                 ^^^^^^^^^^                                             
 
-320.) Line 1105, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+321.) Line 1109, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...ording to opinion? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. On the contrary...
                                                 ^^^^^^^^^                                             
 
-321.) Line 1106, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+322.) Line 1110, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...nion? Objection 1. Objection 2. Objection 3. Objection 4. Objection 5. On the contrary I answer tha...
                                                 ^^^^^^^^^                                             
 
-322.) Line 1107, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+323.) Line 1111, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...on 1. Objection 2. Objection 3. Objection 4. Objection 5. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-323.) Line 1113, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+324.) Line 1117, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 2. Reply to Objection 3. Reply to Objection 4. Reply to Objection 5.  Artic...
                                                 ^^^^^                                             
 
-324.) Line 1114, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+325.) Line 1118, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... Reply to Objection 3. Reply to Objection 4. Reply to Objection 5.  Article 11. Whether this na...
                                                 ^^^^^                                             
 
-325.) Line 1119, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+326.) Line 1123, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ...roper name of God? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-326.) Line 1129, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
+327.) Line 1133, column 1, Rule ID: ENGLISH_WORD_REPEAT_BEGINNING_RULE premium: false prio=-50
 Message: Three successive sentences begin with the same word. Consider rewording the sentence or use a thesaurus to find a synonym.
 ... formed about God? Objection 1. Objection 2. Objection 3. On the contrary I answer that Reply to Ob...
                                                 ^^^^^^^^^                                             
 
-327.) Line 1174, column 21, Rule ID: EN_WORD_COHERENCY premium: false
+328.) Line 1178, column 21, Rule ID: EN_WORD_COHERENCY premium: false
 Message: Do not mix variants of the same word (?among? and ?amongst?) within a single text.
 Suggestion: amongst
 ...atures: creation (44-46) B. The distinctions among creatures 1.   The distinctions among things...
                                                 ^^^^^                                             
 
-328.) Line 1175, column 4, Rule ID: WHITESPACE_RULE premium: false
+329.) Line 1179, column 4, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...4-46) B. The distinctions among creatures 1.   The distinctions among things in general (47-...
                                                 ^^                                             
 
-329.) Line 1175, column 23, Rule ID: EN_WORD_COHERENCY premium: false
+330.) Line 1179, column 23, Rule ID: EN_WORD_COHERENCY premium: false
 Message: Do not mix variants of the same word (?among? and ?amongst?) within a single text.
 Suggestion: amongst
 ...ctions among creatures 1.   The distinctions among things in general (47-49) 2.   Angels (50-64...
                                                 ^^^^^                                             
 
-330.) Line 1176, column 4, Rule ID: WHITESPACE_RULE premium: false
+331.) Line 1180, column 4, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...tinctions among things in general (47-49) 2.   Angels (50-64) 3.   Corporeal creatures (65-1...
                                                 ^^                                             
 
-331.) Line 1177, column 4, Rule ID: WHITESPACE_RULE premium: false
+332.) Line 1181, column 4, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...gs in general (47-49) 2.   Angels (50-64) 3.   Corporeal creatures (65-102) a. The six days ...
                                                 ^^                                             
 
-332.) Line 1181, column 4, Rule ID: WHITESPACE_RULE premium: false
+333.) Line 1185, column 4, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...(75-102) C. God?s governance of the world 1.   The governance of creatures in general (103-1...
                                                 ^^                                             
 
-333.) Line 1182, column 4, Rule ID: WHITESPACE_RULE premium: false
+334.) Line 1186, column 4, Rule ID: WHITESPACE_RULE premium: false
 Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...ernance of creatures in general (103-104) 2.   The actions of creatures on one another (105-...
                                                 ^^                                             
-Time: 12671ms for 1313 sentences (103.6 sentences/sec)
+Time: 13804ms for 1332 sentences (96.5 sentences/sec)
 
