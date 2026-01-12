@@ -2065,5 +2065,5 @@ Message: Possible typo: you repeated a whitespace
 Suggestion:  
 ...ernance of creatures in general (103-104) 2.   The actions of creatures on one another (105-...
                                                 ^^                                             
-Time: 14787ms for 1412 sentences (95.5 sentences/sec)
+Time: 14883ms for 1412 sentences (94.9 sentences/sec)
 
