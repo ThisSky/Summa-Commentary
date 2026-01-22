@@ -419,3 +419,12 @@
     \oldlistoffigures
   \end{singlespace}
 }
+
+\documentclass{article}
+
+\makeglossaries
+\newglossaryentry{Name}
+{
+    name=Name,
+    description={A term used to describe the essence of something. This is a big deal in the spiritual/metaphysical realm as to name something is to try and encapsulate it's essence. This is why when an angel reveals his name it's really important as it shows their function. Raphael ==> God's healing: He proceeds to heal Tobit. Michael ==> Who is like God?: Casts Satan the one claiming to be like God into Hell. We can not name God as His essence is beyond our comprehension. We can apply inadequate names to Him to begin to try and grasp at His identity.}
+}
