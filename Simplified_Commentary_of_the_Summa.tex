@@ -3,8 +3,10 @@
 % https://github.com/uchicago-library/uchicago-dissertation
 \documentclass{ucetd}
 
-\usepackage[acronym]{glossaries}
+\documentclass{article}
+\usepackage{glossaries}
 \makeglossaries
+\loadglsentries{glossaries}
 \input{glossaries}
 
 \usepackage[T1]{fontenc}
@@ -13,6 +15,7 @@
 \usepackage{amssymb}    % loads amsfonts
 \usepackage{amsthm}
 \usepackage[titletoc]{appendix}
+\usepackage[toc]{glossaries}
 \usepackage[autostyle]{csquotes}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -1693,7 +1696,7 @@ This section is broken into five sub-categories:
 
 \paragraph{E. Penance (84-90)}
 \clearpage
-\printglossaries
+\printglossary[title=Special Terms, toctitle=List of terms]
 \clearpage
 \printbibliography
 \end{document}
