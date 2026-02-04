@@ -6,3 +6,5 @@
 *.run.xml
 *.toc
 *.log
+*.gl*
+*.ist
