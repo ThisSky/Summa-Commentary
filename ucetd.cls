@@ -18,13 +18,6 @@
 	\LoadClass[#2]{#1}
 }
 
-% Default copyright text
-\newcommand{\etdCopyrightText}[1]{
-	\null\vfill
-	\centerline{\textcopyright\ \number\year\ by \@author}
-	\centerline{ORCID iD: https://orcid.org/{#1}}
-	\vskip 15pt\relax
-}
 
 % Preliminary sections following the table of contents and preceding the body are front matter
 \newcommand{\etdFrontMatter}[1]{
@@ -55,6 +48,17 @@
 	\addtocounter{page}{1}
 }
 
+\newcommand{\etdPostLicense}{
+© 2026 by Samo, et al.
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 
+International License (CC BY-SA 4.0).
+
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by-sa/4.0/
+}
+
+
 % UC ETD title page format
 \newcommand{\etdTitlePage} {
 	\hypersetup{pageanchor=false}
@@ -70,7 +74,7 @@
             \includegraphics[width=0.5\textwidth]{aquinas-rsz.png}
             \caption{St Thomas Aquinas}
         \end{figure}
-    
+    	\{etdPostLicense}
 	\end{titlepage}
 	\hypersetup{pageanchor=true}
 }
