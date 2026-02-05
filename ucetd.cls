@@ -48,16 +48,18 @@
 	\addtocounter{page}{1}
 }
 
-\newcommand{\etdPostLicense}{
-© 2026 by Samo, et al.
-
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 
-International License (CC BY-SA 4.0).
-
-To view a copy of this license, visit:
-https://creativecommons.org/licenses/by-sa/4.0/
+\newcommand{\ccbysa}[1][]{%
+\vfill
+\begin{center}
+\footnotesize
+© \the\year\ #1\\
+This work is licensed under a
+\textit{Creative Commons Attribution--ShareAlike 4.0 International License \\
+(CC BY-SA 4.0).}\\
+\href{https://creativecommons.org/licenses/by-sa/4.0/}
+{https://creativecommons.org/licenses/by-sa/4.0/}
+\end{center}
 }
-
 
 % UC ETD title page format
 \newcommand{\etdTitlePage} {
@@ -72,9 +74,9 @@ https://creativecommons.org/licenses/by-sa/4.0/
         \begin{figure}[h!]
             \centering
             \includegraphics[width=0.5\textwidth]{aquinas-rsz.png}
-            \caption{St Thomas Aquinas}
+            \caption{St. Thomas Aquinas}
         \end{figure}
-    	\{etdPostLicense}
+    	  \ccbysa[Aron Aziz, Joseph Samo, Will Whitlow]
 	\end{titlepage}
 	\hypersetup{pageanchor=true}
 }
